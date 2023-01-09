@@ -1,0 +1,620 @@
+<p class="mb-30 text-center">
+	<img alt="Banner" src="https://www.mzpo-s.ru/images/userfiles/2022/07/04/files/banner.png" />
+</p>
+
+<div class="mx-md-5 my-2 p-15 rad-10 shadow-lg my-2 p-15 rad-10 shadow-lg" style="background-color: #f3efef;">
+	<div class="row">
+		<div class="col-md-3 col-sm-3 order-md-1 order-1 order-sm-1 bold">
+			Онлайн
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-2 order-3 order-sm-2 bold">
+			Цена
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-3 order-5 order-sm-3 bold">
+			3 дня
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-4 order-7 order-sm-4 bold">
+			НМО
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-5 order-2 order-sm-5 py-4">
+			Место проведения: платформа Webinar
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-6 order-4 order-sm-6 py-4">
+			1500 рублей<br />
+			(500 рублей за 1 день)
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-7 order-6 order-sm-7 py-4">
+			14, 15 и 16 сентября
+		</div>
+
+		<div class="col-md-3 col-sm-3 order-md-8 order-8 order-sm-8 py-4">
+			Мероприятие находится на аккредитации
+		</div>
+	</div>
+</div>
+
+<h3 class="text-center">
+	<a href="/images/activities/RS-MSForum.pdf" target="blank"><u>Анонс форума</u></a>
+</h3>
+
+<div class="row mt-30 text-center">
+	<div class="col-md-4">
+		<p>
+			<a class="btn btn-red w--250" href="https://events.webinar.ru/mzpo/11797939" style="color: #ffffff;" target="blank">Зарегистрироваться на 14 сентября</a>
+		</p>
+	</div>
+
+	<div class="col-md-4">
+		<p>
+			<a class="btn btn-red w--250" href="https://events.webinar.ru/mzpo/11798423" style="color: #ffffff;" target="blank">Зарегистрироваться на 15 сентября</a>
+		</p>
+	</div>
+
+	<div class="col-md-4">
+		<p>
+			<a class="btn btn-red w--250" href="https://events.webinar.ru/mzpo/11798917" style="color: #ffffff;" target="blank">Зарегистрироваться на 16 сентября</a>
+		</p>
+	</div>
+</div>
+
+<p class="text-center bold">
+	14 сентября
+</p>
+
+<div class="toggle toggle-transparent toggle-bordered-simple pt-xs-3">
+	<div class="toggle">
+		<label class="border-3"><strong>Специальности</strong></label>
+
+		<div class="toggle-content">
+			<div class="row">
+				<div class="col-md-6 col-sm-6 col-12">
+					<p class="text-center bold">
+						Средний медицинский персонал
+					</p>
+
+					<p>
+						Акушерское дело, Анестезиология и реаниматология, Лабораторная диагностика, Лабораторное дело, Организация сестринского дела, Рентгенология, Сестринское дело, Сестринское дело в педиатрии, Скорая и неотложная помощь.
+					</p>
+				</div>
+
+				<div class="col-md-6 col-sm-6 col-12">
+					<p class="text-center bold">
+						Врачи
+					</p>
+
+					<p>
+						Лечебная физкультура и спортивная медицина, Неврология, Общая врачебная практика (семейная медицина), Организация здравоохранения и общественное здоровье,Терапия,Управление сестринской деятельностью.
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="toggle">
+		<label class="border-3"><strong>Программа</strong></label>
+
+		<div class="toggle-content">
+			<p>
+				<strong>11:00 - 11:10</strong>&nbsp;Приветственная речь организаторов и соорганизаторов.<br />
+				<strong>11:10 - 11:30</strong> Сестринская служба в РФ и влияние НКО на ее развитие. Роль руководителя сестринской службы в динамичном профессиональном росте среднего медицинского персонала. Эффективная медицинская команда.<br />
+				<strong>11:30 - 11:50</strong> Cимуляционные центры. Эффективные способы самостоятельной тренировки практических и коммуникативных навыков у медицинского персонала в Москве и регионах РФ.<br />
+				<strong>11:50 - 12:00</strong> Спонсорский доклад.&nbsp;Сертифицированное оборудование высочайшего качества для лабораторий, клиник, стоматологий и прочих частных и государственных медицинских учреждений компании Армед. БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ.<br />
+				<strong>12:00 - 13:00</strong> Задачи главной медицинской сестры по осуществлению внутреннего контроля качества. Дезенфекция и стерилизация &ndash; как важные&nbsp;процессы внутреннего контроля качества. Роль медицинской команды в эффективном осуществлении внутреннего контроля качества.<br />
+				<strong>13:00 - 14:00</strong> Безопасность медицинской деятельности и внутренний контроль качества.<br />
+				<strong>14:00 - 14:20</strong> Технический перерыв. Новости медицины. Информация о партнерах.&nbsp;<br />
+				<strong>14:20 - 15:00</strong> Правила хранения наркотических и психотропных веществ. Изменения в нормативно-правовой базе в 2022 году<br />
+				<strong>15:00 - 16:00</strong> Управление медицинским персоналом: внедрение нововведений в медицинских учреждениях и преодоление сопротивления. Способы мотивации и эффективной коммуникации.<br />
+				<strong>16:00 - 16:20</strong> Технический перерыв. Новости медицины. Информация о партнёрах.<br />
+				<strong>16:20 - 17:15</strong> Работа сестринского звена.<br />
+				<strong>17:15 - 18:30</strong> Современные аспекты оказания первой помощи как в госпитальных, так и вне госпитальных условиях. Сердечно-легочная реанимация в рамках международного опыта. Актуальные вопросы скорой неотложная помощи в РФ. Проект &laquo;Спасатель рядом&raquo;.<br />
+				<strong>18:30 - 19:00</strong> Спонсорский блок. Обзор отечественных производителей медицинского оборудования компаний ООО &laquo;Армед&raquo;, ООО &laquo;ОПОРА&raquo;, ООО &laquo;МЕДЭКС&raquo;. БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ.<br />
+				<strong>19:00 - 19:15</strong> Подведение итогов первого дня Форума организаторами и модераторами ФОРУМА<br />
+				<a href="https://www.mzpo-s.ru/images/activities/1.day.forum.2022.pdf">Полная программа первого дня форума</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+<p class="text-center bold">
+	15 сентября
+</p>
+
+<div class="toggle toggle-transparent toggle-bordered-simple pt-xs-3">
+	<div class="toggle">
+		<label class="border-3"><strong>Специальности</strong></label>
+
+		<div class="toggle-content">
+			<div class="row">
+				<div class="col-md-6 col-sm-6 col-12">
+					<p class="text-center bold">
+						Средний медицинский персонал
+					</p>
+
+					<p>
+						Акушерское дело; Анестезиология и реаниматология; Бактериология; Лабораторная диагностика; Лечебная физкультура; Лечебное дело; Медико-социальная помощь; Медицинский массаж; Общая практика; Организация сестринского дела; Реабилитационное сестринское дело; Сестринское дело; Сестринское дело в косметологии; Сестринское дело в педиатрии; Скорая и неотложная помощь; Физиотерапия
+					</p>
+				</div>
+
+				<div class="col-md-6 col-sm-6 col-12">
+					<p class="text-center bold">
+						Врачи
+					</p>
+
+					<p>
+						Авиационная и космическая медицина; аллергология и иммунология; вирусология; дерматовенерология; инфекционные болезни; косметология; лечебная физкультура и спортивная медицина; Лечебное дело; общая врачебная практика (семейная медицина); организация здравоохранения и общественное здоровье; офтальмология; санитарно-гигиенические лабораторные исследования; терапия; управление сестринской деятельностью
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="toggle">
+		<label class="border-3"><strong>Программа</strong></label>
+
+		<div class="toggle-content">
+			<p>
+				<strong>11:00 - 11:10</strong> Приветственное слово организаторов Форума<br />
+				<strong>11:10 - 12:00</strong> Актуальные вопросы ФИС ФРДО и аккредитации медицинских работников<br />
+				<strong>12:00 - 13:10</strong> Национальный календарь профилактических прививок. Национальный календарь профилактических прививок по эпидемиологическим показаниям. Вакцинация детей и взрослых. Секция &laquo;Иммунология. Вакцинопрофилактика&raquo;<br />
+				<strong>13:10 - 13:15</strong> Технический перерыв. Информация о партнерах Форума. Новости медицины<br />
+				<strong>13:15 - 14:20</strong> Междисциплинарный подход - оказание помощи на борту воздушного судна. Программа &laquo;Врачи на борту&raquo;. Секция &laquo;Авиационная и космическая медицина&raquo;<br />
+				<strong>14:20 - 15:10</strong> Первая помощь - особенности эвакуации пациентов авиационным транспортом для врачей разных специальностей.<br />
+				<strong>15:10 - 15:30</strong> Технический перерыв. Информация о партнерах.<br />
+				<strong>15:30 - 16:30</strong> Лабораторные показатели гемостаза. Преаналитические особенности пробирки с голубой крышкой. Секция &quot;Лабораторная диагностика&quot;.<br />
+				<strong>16:30 - 17:35</strong>&nbsp;Инфекционная безопасность при проведении лабораторных исследований.<br />
+				<strong>17:35 - 18:00</strong> Спонсорский блок (ООО НПК &laquo;МЕДЭКС&raquo;). Современный подход к стерилизации и дезинфекции в эндоскопии. БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ.<br />
+				<strong>18:00 - 18:50</strong> Междисциплинарный подход &ndash; офтальмохирургия. Эффективная команда: косметолог, офтальмолог, хирург, косметолог. Современные технологии и алгоритм выбора методов лазерной коррекции зрения. Секция &laquo;Офтальмология&raquo;.<br />
+				<strong>18:50 - 19:05</strong> Спонсорский доклад. &laquo;ООО Гельтек- медика&raquo;. Офтальмологические осложнения при лечении лимфом. БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ<br />
+				<strong>19:05 - 19:45</strong> Вирусный конъюнктивит и его профилактика. Влияние конъюнктивита на органы и системы человека. Секция &laquo;Офтальмология&raquo;<br />
+				<strong>19:45 - 19:50</strong> Подведение итогов второго дня Форума организаторами и модераторами<br />
+				<a href="https://www.mzpo-s.ru/images/activities/2.day.forum.2022.pdf">Полная программа второго дня форума</a>
+			</p>
+		</div>
+	</div>
+</div>
+
+<p class="text-center bold">
+	16 сентября
+</p>
+
+<div class="toggle toggle-transparent toggle-bordered-simple pt-xs-3">
+	<div class="toggle">
+		<label class="border-3"><strong>Специальности</strong></label>
+
+		<div class="toggle-content">
+			<div class="row pb-30">
+				<div class="col-md-6 col-sm-6 col-12">
+					<p class="text-center bold">
+						Средний медицинский персонал
+					</p>
+
+					<p>
+						Акушерское дело; Анестезиология и реаниматология; Лечебная физкультура; Лечебное дело; Медико-социальная помощь; Медицинский массаж; Общая практика; Организация сестринского дела; Реабилитационное сестринское дело; Сестринское дело; Сестринское дело в косметологии; Сестринское дело в педиатрии; Скорая и неотложная помощь; Стоматология; Стоматология профилактическая; Физиотерапия.
+					</p>
+				</div>
+
+				<div class="col-md-6 col-sm-6 col-12">
+					<p class="text-center bold">
+						Врачи
+					</p>
+
+					<p>
+						Анестезиология-реаниматология; вирусология; дерматовенерология; косметология; лечебная физкультура и спортивная медицина; Лечебное дело; общая врачебная практика (семейная медицина); организация здравоохранения и общественное здоровье; педиатрия; психиатрия; психотерапия; стоматология общей практики; стоматология ортопедическая; стоматология терапевтическая; стоматология хирургическая; терапия; травматология и ортопедия; управление сестринской деятельностью; физиотерапия; физическая и реабилитационная медицина; хирургия; челюстно-лицевая хирургия
+					</p>
+				</div>
+			</div>
+		</div>
+
+		<div class="toggle">
+			<label class="border-3"><strong>Программа</strong></label>
+
+			<div class="toggle-content">
+				<p>
+					<strong>11:00 - 11:10</strong> Приветственное слово организаторов Форума<br />
+					<strong>11:10 - 12:00</strong> Эффективная команда медицинской организации. Экстренная неотложная помощь на примере стоматологической клинике. Секция &laquo;Стоматология. Челюстно-лицевая хирургия&raquo;.<br />
+					<strong>12:00 - 12:50</strong> Проблемы височно-нижнечелюстного сустава &ndash; совместная работа невролога, ортодонта, массажиста. Актуальные вопросы командной работы в челюстно-лицевой хирургии.<br />
+					<strong>12:50 - 13:00</strong> Технический перерыв. Информация о партнерах Форума. Новости медицины.<br />
+					<strong>13:00 - 13:35</strong> Правила дезинфекции и стерилизации согласно СанПин в стоматологической практике. Внутренний контроль качества дезинфекции и стерилизации в стоматологии.<br />
+					<strong>13:35 - 13:50</strong> Спонсорский блок (&laquo;ООО Гельтек - медика&raquo;).&nbsp;Домашний лечебно-профилактический уход как помощь в быстром достижении ремиссии при акне и розацеа.&nbsp;БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ.<br />
+					<strong>13:50 - 14:20</strong> Организация анестезической службы в клинике на примере пластической хирургии. Секция &laquo;Анестезиология и реанимация&raquo;.<br />
+					<strong>14:20 - 14:50</strong> Особенности реанимационной помощи пациентам в современных социально-медицинских условиях.<br />
+					<strong>14:50 - 15:25</strong> Организация помощи пациентам с острой кардиальной патологией &ndash; междисциплинарный подход терапевта, кардиолога и невролога&raquo;<br />
+					<strong>15:25 - 15:50</strong> Актуальные вопросы терапии в косметологии во врачебной и сестринской практике. Секция &laquo;Косметология&raquo;.<br />
+					<strong>15:50 - 16:20</strong> Персональный ДНК-анализ в эстетической медицине &ndash; междисциплинарный подход в диетологии, дерматологии, косметологии и стоматологии.<br />
+					<strong>16:20 - 16:30</strong> Спонсорский блок. Обзор продукции &quot;MESOPHARM&quot;. БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ.<br />
+					<strong>16:30 - 17:00</strong> Интегративное восстановление пациентов с хроническими неинфекционными заболеваниями. Секция &laquo;Реабилитация. Лечебная физкультура и спортивная медицина&raquo;<br />
+					<strong>17:00 - 17:30</strong> Организация работы реабилитационно-восстановительных центров для лечения и профилактики заболевания опорно-двигательного аппарата<br />
+					<strong>17:30 - 18:00</strong> Организация стационара на дому для не онкологических паллиативным пациентам. Секция &laquo;Паллиативная помощь&raquo;<br />
+					<strong>18:00 - 18:15</strong> Спонсорский блок. Обзор отечественных производителей медицинского оборудования компаний ООО &laquo;Армед&raquo;, ООО &laquo;МЕДЭКС&raquo;. БАЛЛАМИ НМО НЕ ОБЛАГАЕТСЯ<br />
+					<strong>18:15 - 19:10</strong> Пост-ковидная реальность: психоэмоциональное выгорание медицинского персонала. Эффективные методы восстановления. Секция &laquo;Психиатрия и клиническая психология&raquo;.<br />
+					<strong>19:10 - 19:15</strong> Подведение итогов третьего дня форума организаторами и модераторами<br />
+					<a href="https://www.mzpo-s.ru/images/activities/3.day.forum.2022.pdf">Полная программа третьего дня форума</a>
+				</p>
+			</div>
+		</div>
+	</div>
+
+	<div class="bg-mzpo-2 mt-30 mx-0 mx-xs-1 p-7 py-3 rad-10 row">
+		<div class="col-md-12 text-white ">
+			<p class="pl-30 pt-15">
+				Мероприятие находится на аккредитации
+			</p>
+
+			<p class="pl-30 pt-10">
+				В рамках мероприятия предусмотрен контроль присутствия
+			</p>
+
+			<p class="pl-30 pt-10 pb-15">
+				- присутствовать не менее 270 мин на трансляции;<br />
+				- подтвердить во всплывающем окне своё присутствие 6&nbsp;из 7&nbsp;раз.
+			</p>
+		</div>
+	</div>
+
+	<h3 class="mt-30 text-center text-mzpo bold">
+		Партнёры и соорганизаторы
+	</h3>
+	<!--Слайдер партнёров-->
+
+	<section class="mb-20 mt-20">
+		<div class="wrapper">
+			<div class="partnerss js-teachers-r-slider text-center">
+				<div class="aa  index col-md-3" id="seminarsId1000">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://www.mzpo-s.ru"><img alt="" src="/images/userfiles/2022/08/29/files/mzpo(1).jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa index col-md-3" id="seminarsId1001">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://mirk.msk.ru"><img alt="" src="/images/userfiles/2022/08/29/files/mirk.jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa index col-md-3" id="seminarsId1002">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://avam-avia.ru"><img alt="" src="/images/userfiles/2022/08/29/files/avam.jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa index col-md-3" id="seminarsId1003">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://mos-medsestra.ru"><img alt="" src="/images/userfiles/2022/08/29/files/rooms(1).jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa index col-md-3" id="seminarsId1004">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://e-stomatology.ru/star/"><img alt="" src="/images/userfiles/2022/08/29/files/star(1).jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa  index col-md-3" id="seminarsId1005">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://intermeda.ru"><img alt="" src="/images/userfiles/2022/08/29/files/amm(1).jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa  index col-md-3" id="seminarsId1006">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://geltek.ru"><img alt="" src="/images/userfiles/2022/08/29/files/geltek(1).jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa  index col-md-3" id="seminarsId1007">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://mesopharm.ru"><img alt="" src="/images/userfiles/2022/08/29/files/mesopharm.jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa  index col-md-3" id="seminarsId1008">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="https://www.armed.ru"><img alt="" src="/images/userfiles/2022/08/29/files/armed.jpg" /></a>
+						</div>
+					</div>
+				</div>
+
+				<div class="aa index col-md-3" id="seminarsId1009">
+					<div style="display: flex;flex-direction: row;justify-content: space-around;">
+						<div style="width:150px">
+							<a href="http://npkmedex.ru"><img alt="" src="/images/userfiles/2022/08/29/files/medex.jpg" /></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<h3 class="pt-30 text-center text-mzpo bold">
+		Спикеры:
+	</h3>
+	<!-- 1 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/Jaremenko-Andrew.jpg" />
+			<p class="fs-14 px-4">
+				<b>Яременко Андрей Ильич</b><br />
+				Президент Ассоциации объединений &laquo;Стоматологические ассоциации России&raquo; (СтАР), доктор медицинских наук, профессор, челюстно-лицевой хирург
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/kalinina-forum-2022.png" />
+			<p class="fs-14 px-4">
+				<b>Калинина Ирина Геннадьевна</b><br />
+				Член Президиума Московского Красного Креста. Президент Региональной общественной организации медицинских сестер г. Москвы (РООМС)
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/Verba.png" />
+			<p class="fs-14 px-4">
+				<b>Верба Ольга Юрьевна</b><br />
+				Доктор медицинских наук, Президент ассоциации авиационной медицины (АВАМ)
+			</p>
+		</div>
+	</div>
+	<!-- 2,5 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="/images/userfiles/2022/08/23/images/elena-anatolevna2.jpg" style="width: 200px; height: 200px;" />
+			<p class="fs-14 px-4">
+				<b>Выходцева Елена Анатольевна</b><br />
+				Директор НОЧУ ДПО &laquo;Международный центр профессионального образования&raquo;, профессор, кандидат экономических наук, разработчик образовательных программ в области менеджмента и управления проектом ГУУ
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/egorova.jpg" />
+			<p class="fs-14 px-4">
+				<b>Егоровa Ирина Викторовна</b><br />
+				врач-косметолог, физиотерапевт, сертифицированный тренер-методист &quot;Гельтек-Медика&quot;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/shishonin.png" />
+			<p class="fs-14 px-4">
+				<b>Шишонин Александр Юрьевич</b><br />
+				Кандидат медицинских наук, главный врач клинического комплекса &laquo;Клиника Доктора Шишонина&raquo;. Автор метода &laquo;Шейно-церебральная терапия&raquo;, автор методики микроанатомического исследования позвоночных артерий, автор &laquo;Теории Конвергентных Биопроцессов&raquo;, &laquo;Термодинамической Теории Старения&raquo;
+			</p>
+		</div>
+	</div>
+	<!-- 2 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/shilova.png" />
+			<p class="fs-14 px-4">
+				<b>Шилова Татьяна Юрьевна </b><br />
+				Врач высшей категории, офтальмохирург, Доктор медицинских наук, профессор, главный врач современной офтальмологической сети &laquo;Клиника Доктора Шиловой&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/gonchakov.png" />
+			<p class="fs-14 px-4">
+				<b>Гончаков Геннадий Васильевич</b><br />
+				Профессор кафедры пластической хирургии РНИМУ, доктор медицинских наук, врач высшей квалификационной категории по специальности &laquo;Челюстно-лицевая хирургия&raquo;. Начальник центра детской челюстно-лицевой хирургии и оториноларингологии &laquo;Центральной клинической больницы с поликлиникой&raquo; Управление делами Президента Российской Федерации
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/moroga.png" />
+			<p class="fs-14 px-4">
+				<b>Морога Дэнуц Федорович </b><br />
+				Врач-реабилитолог, Медицинский директор сети реабилитационных центров &laquo;ДЭМА&raquo;, Главный врач &laquo;Института физической реабилитации&raquo;
+			</p>
+		</div>
+	</div>
+	<!-- 3 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/bershadskaya-forum.png" />
+			<p class="fs-14 px-4">
+				<b>Бершадская Мария Борисовна</b><br />
+				Cтарший преподаватель кафедры управления сестринским делом ФГАОУ ВО &laquo;Российский университет дружбы народов&raquo;, тренер, инструктор - методист по программам Общероссийской общественной организации &laquo;Российский Красный Крест&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/panina.png" />
+			<p class="fs-14 px-4">
+				<b>Панина Елена Вячеславовна</b><br />
+				Заведующая симуляционным центром ГБПОУ ДЗМ &laquo;Медицинский колледж №1&raquo;, главная медицинская сестра; Заместитель Председателя СОЮЗА Медицинских сестер г. Москвы
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/mamlenkova.png" />
+			<p class="fs-14 px-4">
+				<b>Мамленкова Елена Алексеевна</b><br />
+				Ассистент кафедры управления сестринской деятельностью и социальной работы Сеченовского Университета, практический опыт более 25 лет в организации и управлении сестринским делом, тренерской и преподавательской деятельностью
+			</p>
+		</div>
+	</div>
+	<!-- 4 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/varligin.png" />
+			<p class="fs-14 px-4">
+				<b>Варлыгин Олег Олегович</b><br />
+				Директор по развитию службы санитарной авиации, член экспертных советов Министерства Здравоохранения РФ, тренер- инструктор международного класса по первой помощи (EFR), аттестованный специалист оказания медицинской помощи пациентам с высокоэнергетической травмой по международному протоколу ITLS
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/Nikolenko.png" />
+			<p class="fs-14 px-4">
+				<b>Николенко Надежда Владимировна</b><br />
+				Медицинский юрист, эксперт по внутреннему контролю качества в медицинских учреждениях
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/08/31/files/smirnovaA.jpg" />
+			<p class="fs-14 px-4">
+				<b>Смирнова Анна Борисовна</b><br />
+				Врач-офтальмолог клинического отдела НМИЦ гематологии,<br />
+				Кандидат медицинских наук, доктор, профессор
+			</p>
+		</div>
+	</div>
+	<!-- 5 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/Kim_Evg.png" />
+			<p class="fs-14 px-4">
+				<b>Ким Евгений Владимирович</b><br />
+				Директор симуляционного учебного центра &laquo;СИНТОМЕД&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/kiseleva.png" />
+			<p class="fs-14 px-4">
+				<b>Киселева Влада Арнольдовна</b><br />
+				Врач-методист, ГБУЗ &laquo;Центр медицинской профилактики ДМЗ&raquo;, специалист в области организации иммунопрофилактики, учета, распределения иммунологических препаратов, вопросами &laquo;холодовой цепи&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/04/files/syroviatkina-Maria.png" />
+			<p class="fs-14 px-4">
+				<b>Суровяткина Марина Васильевн</b><br />
+				Главная медицинская сестра, ООО &laquo;Офтальмологический центр диагностики хирургии заднего отдела глаза&raquo;
+			</p>
+		</div>
+	</div>
+	<!-- 6 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/bozhich.png" />
+			<p class="fs-14 px-4">
+				<b>Божич Перо</b><br />
+				Юрист, эксперт по вопросам дополнительного профессионального образования &laquo;МЦПО&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/09/09/files/IvanovaG.png" />
+			<p class="fs-14 px-4">
+				<b>Иванова Галина Романовна</b><br />
+				Психиатр, психотерапевт, кандидат медицинских наук, доцент кафедры психиатрии, наркологии и психиатрии ФДПО &laquo;Московского Государственного Медико-Стоматологического Университета имени А.И. Евдокимова&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/Serezhina(1).png" />
+			<p class="fs-14 px-4">
+				<b>Сережина Вера Викторовна</b><br />
+				Врач-инфекционист, Врач-бактериолог, руководитель отдела развития медицинских услуг &laquo;NOVASCREEN&raquo;
+			</p>
+		</div>
+	</div>
+	<!-- 7 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/Kozlov_Dmitij.png" />
+			<p class="fs-14 px-4">
+				<b>Козлов Дмитрий Валентинович</b><br />
+				Заведующий отделением анестезиологии клиники &laquo;Шале Сантэ&raquo;. Врач анестезиолог &ndash; реаниматолог ГБУЗ НИИ &laquo;Краевая клиническая больница №1 им. Профессора С.В. Очаповского&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/Komarov-Alexandr(1).png" />
+			<p class="fs-14 px-4">
+				<b>Комаров Александр Николаевич</b><br />
+				Врач-невролог, кандидат медицинских наук, врач лечебной и спортивной медицины, Специалист в области паллиативной помощи, Директор Национально-реабилитационного центра &laquo;Доверие&raquo;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/dymanian.png" />
+			<p class="fs-14 px-4">
+				<b>Думаньян Евгений Сергеевич</b><br />
+				Заведующий отделением реанимации №2, ГАУЗ РТ &laquo;Больница скорой медицинской помощи&raquo;
+			</p>
+		</div>
+	</div>
+	<!-- 8 row -->
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/sergeenko.png" />
+			<p class="fs-14 px-4">
+				<b>Сергеенко Софья Владимировна </b><br />
+				Старшая медицинская сестра отделения стоматологии поликлиники Челюстно-лицевого госпиталя для Ветеранов Войн ДЗМ. Звание &laquo;Лучшая медицинская сестра города Москвы&raquo; в 2014 году. Обладатель статуса &laquo;Московская медицинская сестра 2021&raquo; Заместитель председателя Первичной профсоюзной организации ГБУЗ ЧЛГ для ВВ. Состоит в Столичном сестринском сообществе
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/activities/2022/09/14/salazkina.png" />
+			<p class="fs-14 px-4">
+				<b>Салазкина Катарина Вадимовна</b><br />
+				Врач-косметолог, сертифицированный тренер учебного центра MESOPHARM, сертифицированный специалист по направлению &quot;Мезотерапия в терапевтической косметологии и эстетической медицине&quot;
+			</p>
+		</div>
+
+		<div class="col-md-4 col-sm-4 col-12">
+			<img alt="" src="https://www.mzpo-s.ru/images/userfiles/2022/07/06/files/changalyan.png" />
+			<p class="fs-14 px-4">
+				<b>Чанглян Кристина Аслановна</b><br />
+				Кандидат медицинских наук, врач-косметолог, дерматовенеролог, педагог кафедры медициской косметологии &laquo;Медицинский институт реабилитации и косметологии им. З.М. Никифоровой&raquo;
+			</p>
+		</div>
+	</div>
+
+	<h3 class="pt-30 text-center text-mzpo bold">
+		Модерация:
+	</h3>
+
+	<div class="row text-center py-3 mt-30">
+		<div class="col-md-6 col-sm-6 col-12">
+			<img alt="" class="rad-20 w-200" src="https://www.mzpo-s.ru/images/userfiles/2022/07/01/files/Ivanov.png" />
+			<p class="fs-14 px-4 pb-xs-3">
+				<b>Иванов Владислав</b><br />
+				Технический специалист, отвечающий за модерацию форума
+			</p>
+		</div>
+
+		<div class="col-md-6 col-sm-6 col-12">
+			<img alt="" class="rad-20 w-200" src="https://www.mzpo-s.ru/images/userfiles/2022/07/01/files/Kireeva.png" />
+			<p class="fs-14 px-4">
+				<b>Киреева Светлана</b><br />
+				Заместитель руководителя корпоративного обучения
+			</p>
+		</div>
+	</div>
+</div>
