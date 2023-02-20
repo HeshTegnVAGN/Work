@@ -1,0 +1,80 @@
+<div class="alert-info mb-10 mb-5 mx-auto p-15 rad-10" style="border-left: 5px solid rgba(0, 0, 0, 0.1); padding: 20px; border-radius: 10px;">
+	<div>
+	<h3 class="mb-15 text-center">График работы в праздничные дни</h3>
+	</div>
+	<p><strong>Розничный отдел</strong></p>
+	<p>23 и 24 февраля - <span class="text-danger">выходные </span><br /> 25 и 26 февраля - дежурные дни с 10:00 до 16:00</p>
+	<div>
+	<p><strong>Методический, договорной, корпоративный отделы и сопровождение</strong></p>
+	<p>23, 24, 25 и 26 февраля - <span class="text-danger">выходные дни</span></p>
+	</div>
+	</div>
+	<!-- 1-st row-->
+	<div class="justify-content-between mb-4 row">
+	<div class="col-6 rad-10" style="background-color: #ffffff; width: 49%;">
+	<div class="row">
+	<div class="col-8 my-auto">
+	<p><strong>Заместитель руководителя</strong></p>
+	<p>Алёна Федосова</p>
+	<p><strong>телефон:</strong><span class="call_phone_2"> <a class="linkPhone roistat-phone" href="tel:+78005552180">8 (800) 555-21-80</a></span></p>
+	<p class="mail mb-0"><strong>почта:</strong> <a href="mailto:info@mzpo.education">info@mzpo.education</a></p>
+	</div>
+	<div class="col-4"><img class="img-fluid rad-10" src="images/FedosovaAle.jpg" /></div>
+	</div>
+	</div>
+	<div class="col-6 rad-10" style="background-color: #ffffff; width: 49%;">
+	<div class="row">
+	<div class="col-8 my-auto">
+	<p><strong>Старший менеджер корпоративных продаж</strong></p>
+	<p>Лилия Алферова</p>
+	<p><strong>телефон:</strong><span class="call_phone_2"> <a class="linkPhone roistat-phone" href="tel:+78005552180">8 (800) 555-21-80</a></span></p>
+	<p class="mail mb-0"><strong>почта:</strong> <a href="mailto:info@mzpo.education">info@mzpo.education</a></p>
+	</div>
+	<div class="col-4"><img class="img-fluid rad-10" src="images/AlferovaLilli.jpg" /></div>
+	</div>
+	</div>
+	</div>
+	<!-- /1-st row -->
+	
+	<!-- 2-nd row -->
+	<div class="justify-content-between mb-4 row">
+	<div class="col-6 rad-10" style="background-color: #ffffff; width: 49%;">
+	<div class="row">
+	<div class="col-8 my-auto">
+	<p><strong>Менеджер корпоративных продаж</strong></p>
+	<p>Светлана Киреева</p>
+	<p><strong>телефон:</strong><span class="call_phone_2"> <a class="linkPhone roistat-phone" href="tel:+78005552180">8 (800) 555-21-80</a></span></p>
+	<p class="mail mb-0"><strong>почта:</strong> <a href="mailto:info@mzpo.education">info@mzpo.education</a></p>
+	</div>
+	<div class="col-4"><img class="img-fluid rad-10" src="images/KireevaSvet.jpg" /></div>
+	</div>
+	</div>
+	<div class="col-6 rad-10" style="background-color: #ffffff; width: 49%;">
+	<div class="row">
+	<div class="col-8 my-auto">
+	<p><strong>Менеджер корпоративных продаж</strong></p>
+	<p>Элина Уляшева</p>
+	<p><strong>телефон:</strong><span class="call_phone_2"> <a class="linkPhone roistat-phone" href="tel:+78005552180">8 (800) 555-21-80</a></span></p>
+	<p class="mail mb-0"><strong>почта:</strong> <a href="mailto:info@mzpo.education">info@mzpo.education</a></p>
+	</div>
+	<div class="col-4"><img class="img-fluid rad-10" src="images/YlyashevaEli.jpg" /></div>
+	</div>
+	</div>
+	</div>
+	<!-- 2-nd row -->
+	
+	<!-- 3-rd row -->
+	<div class="justify-content-between mb-4 row">
+	<div class="col-6 rad-10" style="background-color: #ffffff; width: 49%;">
+	<div class="row">
+	<div class="col-8 my-auto">
+	<p><strong>Менеджер корпоративных продаж</strong></p>
+	<p>Евгения Лебедева</p>
+	<p><strong>телефон:</strong><span class="call_phone_2"> <a class="linkPhone roistat-phone" href="tel:+78005552180">8 (800) 555-21-80</a></span></p>
+	<p class="mail mb-0"><strong>почта:</strong> <a href="mailto:info@mzpo.education">info@mzpo.education</a></p>
+	</div>
+	<div class="col-4"><img class="img-fluid rad-10" src="images/LebedevaEvg.jpg" /></div>
+	</div>
+	</div>
+	</div>
+	<!-- 3-rd row -->
