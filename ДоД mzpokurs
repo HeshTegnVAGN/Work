@@ -1,3 +1,39 @@
+<section class="section section-xs" style="padding-top: 40px; padding-bottom: 0;">
+    <section class="section section-xs" style="padding: 0px;">
+        <div class="row">
+            <div class="col-md-4 col-sm-6"><center>
+                    <div><img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" /></div>
+                </center>
+                <p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">13 апреля 2023 года,<br /> с 15:00 до 19:00</p>
+            </div>
+            <div class="col-md-4 col-sm-6"><center>
+                    <div><img class="rounded" src="images/geo-mer.png" style="width: 150px; height: 150px;" /></div>
+                </center>
+                <p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">ул. Кузнецкий мост д.19 стр.2<br> 113 апреля
+                </p>
+            </div>
+            <div class="col-md-4 col-sm-6"><center>
+                    <div><img class="rounded" src="images/price-mer.png" style="width: 150px; height: 150px;" /></div>
+                </center>
+                <p style="font-size: 18px; font-weight: bold; text-align: center; color: #ff0000; padding-top: 10px;">Бесплатно</p>
+            </div>
+        </div>
+    </section>
+    <div class="text-center">
+        <p style="font-weight: 600; margin-top: 50px!important;	margin-bottom: 50px!important; font-size: 18px;	color: #FF4136 !important;">Для всех участников при заключении договора в день мероприятия скидки до 50%!</p>
+    </div>
+</section>
+<!-- Препод --><!--
+	<div class="row">
+		<div class="col-md-6 col-sm-6 col-xs-12 mb-2-xs pb-xs-4 text-center">
+			<img alt="" class="rad-10  rounded-3  img-fluid" src="https://www.mzpo-s.ru//images/userfiles/2022/11/08/files/dod1.jpg" />
+		</div>
+
+		<div class="col-md-6 col-sm-6 col-xs-12 text-center">
+			<img alt="" class="rad-10  rounded-3 img-fluid" src="https://www.mzpo-s.ru//images/userfiles/2022/11/08/files/dod2.jpg" />
+		</div>
+	</div>
+	-->
 <section class="section section-xs">
     <div class="row">
         <div class="col-12 mx-auto" style="margin-top: 1%; margin-bottom: 2%;"><center>
