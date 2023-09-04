@@ -4,12 +4,12 @@
             <div class="col-md-4 col-sm-6"><center>
                     <div><img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" /></div>
                 </center>
-                <p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">24 августа 2023 года,<br /> с 15:00 до 19:00</p>
+                <p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">13 сентября 2023 года,<br /> с 14:00</p>
             </div>
             <div class="col-md-4 col-sm-6"><center>
                     <div><img class="rounded" src="images/geo-mer.png" style="width: 150px; height: 150px;" /></div>
                 </center>
-                <p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">ул. Кузнецкий мост д.21/5,<br> 4 этаж, аудитория 5
+                <p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">ул. Ленинская Слобода, д.26, корп. С,<br>аудитория 231
                 </p>
             </div>
             <div class="col-md-4 col-sm-6"><center>
@@ -46,10 +46,10 @@
             <div class="section section-xs">
                 <div class="row mt-20 mb-30">
                     <div class="col-md-6">
-                        <img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-3.jpg" />
+                        <img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/30/files/dod-medp-1.jpg" />
                     </div>
                     <div class="col-md-6">
-                        <img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-4.jpg" />
+                        <img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/30/files/dod-medp-2.jpg" />
                     </div>
                 </div>
             </div>
@@ -64,23 +64,23 @@
             <!-- /медподготовка -->
 
             <div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-                <p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:00 до 17:00</p>
+                <p class="text-center h2">Программа «Массаж и реабилитация»<br />С 14:00 до 15:00</p>
                 <hr />
                 <div class="row mb-10 mb-xs-10">
                     <div class="col-md-6">
                         <ul style="padding-left: 30px; text-align: left; font-size: 17px;">
                             <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Презентация центра;</li>
-                            <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Презентация кафедры и все о курсах;</li>
-                            <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Погружение в профессию &laquo;Массажист&raquo;;</li>
-                            <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Мастер-класс &laquo;Постизометрическая релаксация мышц&raquo;;</li>
+                            <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Понятие младшая медицинская сестра;</li>
+                            <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Сестринские манипуляции;</li>
+                            <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Первая доврачебная помощь при чрезвычайных ситуациях;</li>
                             <li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">Скидки до 50%.</li>
                         </ul>
                     </div>
                     <div class="col-md-6">
                         <div class="row">
-                            <div class="col-md-5 mx-auto"><a href="https://www.mzpo-s.ru/about/prepodavateli/kafedra-medmassaja/roman-igorevich-mihajlov" target="_blank"><img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/mikhaylov3_4802f6a594bb97ff187ab9cd33343520.png" /></a></div>
+                            <div class="col-md-5 mx-auto"><a href="/about/prepodavateli/kafedra-meditsinskoj-podgotovki/veselko-maksim-petrovich" target="_blank"><img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/VeselkoMP_3cdf17976eeb824e62016e869c642f2f.jpg" /></a></div>
                             <div class="col-md-7 mx-auto">
-                                <p class="bold" style="font-size: 17px;"><a href="https://www.mzpo-s.ru/about/prepodavateli/kafedra-medmassaja/roman-igorevich-mihajlov" target="_blank">Преподаватель:<br />Михайлов Р.И</a></p>
+                                <p class="bold" style="font-size: 17px;"><a href="/about/prepodavateli/kafedra-meditsinskoj-podgotovki/veselko-maksim-petrovich" target="_blank">Преподаватель:<br />Веселко М.П.</a></p>
                             </div>
                         </div>
                     </div>
@@ -90,30 +90,32 @@
                 <div class="section section-xs">
                     <div class="row mt-20 mb-30">
                         <div class="col-md-6">
-                            <img alt="Косметология 1 фото с занятий" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-1.jpg" />
+                            <img alt="Косметология 1 фото с занятий" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-3.jpg" />
                         </div>
                         <div class="col-md-6">
-                            <img alt="Косметология 1 фото с занятий" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-2.jpg" />
+                            <img alt="Косметология 1 фото с занятий" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-4.jpg" />
                         </div>
                     </div>
                 </div>
                 <div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-                    <p class="text-center h2">Программа «Косметология»<br />С 17:00 до 19:00</p>
+                    <p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 17:00</p>
                     <hr />
                     <div class="row mb-10 mb-xs-0">
                         <div class="col-md-6">
                             <ul style="padding-left: 30px; text-align: left; font-size: 17px;">
                                 <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Презентация центра;</li>
                                 <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Презентация кафедры и все о курсах;</li>
-                                <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Мастер-класс &laquo;Аппаратные методики в косметологии&raquo;;</li>
+                                <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Основные приемы классического массажа тела;</li>
+                                <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Знакомство с методиками и техниками оздоровительного массажа;</li>
+                                <li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">Основные приемы классического массажа лица;</li>
                                 <li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">Скидки до 50%.</li>
                             </ul>
                         </div>
                         <div class="col-md-6">
                             <div class="row">
-                                <div class="col-md-5 mx-auto"><a href="https://www.mzpokurs.com/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank"><img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/teachers/205_64bf6fe6b0128.jpg" /></a></div>
+                                <div class="col-md-5 mx-auto"><a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank"><img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev1_a7f0f5e6c46c67d2009f8a04daedb8a2.png" /></a></div>
                                 <div class="col-md-7 mx-auto">
-                                    <p class="bold" style="font-size: 17px;"><a href="https://www.mzpokurs.com/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">Преподаватель:<br />Сафронова А.С.</a></p>
+                                    <p class="bold" style="font-size: 17px;"><a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">Преподаватель:<br />Шепелев В.И.</a></p>
                                 </div>
                             </div>
                         </div>
@@ -124,9 +126,9 @@
     </div>
 </section>
 <center>
-    <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;" >Ждем вас 24 августа с 15:00 до 19:00 по адресу: ул. Кузнецкий мост д.21/5, 4 этаж, аудитория 5</p>
-    <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;" >Секция «Массаж и реабилитация» с 15:00 до 17:00.</p>
-    <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;" >Секция «Косметология» с 17:00 до 19:00.</p>
+    <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;" >Ждем вас 13 сентября с 14:00 до 17:00 по адресу: ул. Ленинская Слобода, д.26, корп. С, аудитория 231</p>
+    <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;" >Секция «Медицинская подготовка» с 14:00 до 15:00.</p>
+    <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;" >Секция «Массаж и реабилитация» с 15:30 до 17:00.</p>
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -135,7 +137,7 @@
     <input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
     <select name="date" required="" id="date" class="form-control mb-15">
         <option>* Выберите дату</option>
-        <option value="24.08.2023 14:00:00">24.08.2023 15:00</option>
+        <option value="13.09.2023 14:00:00">13.09.2023 14:00</option>
     </select>
     <input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на бесплатное мероприятие День открытых дверей в МЦПО (очно) с сайта mzpokurs.com" />
     <input type="hidden" name="events" value="true" />
