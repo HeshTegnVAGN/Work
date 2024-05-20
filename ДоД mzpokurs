@@ -7,7 +7,7 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">15 мая 2024 года,<br />с 14:00</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">29 мая 2024 года,<br />с 14:00</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
@@ -15,7 +15,7 @@
 				</center>
 				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">
 					<a href="https://yandex.ru/maps/-/CDV3UQ6A" target="_blank">
-						<i class="fa fa-map fi mr-5 text-danger"></i>м. Автозаводская, ул. Ленинская Слобода, д. 26, корп. С, аудитория 220/3</a>
+						<i class="fa fa-map fi mr-5 text-danger"></i>м. Кузнецкий мост, ул. Кузнецкий мост д.21/5, аудитория 4002/6</a>
 				</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
@@ -66,15 +66,15 @@
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
-							<img alt="" class="mx-auto" style="border-radius: 10px;"src="https://www.mzpo-s.ru/images/userfiles/2022/11/30/files/dod-medp-1.jpg" />
+							<img alt="" class="mx-auto" style="border-radius: 10px;"src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-1.jpg" />
 						</div>
 						<div class="col-md-6">
-							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/30/files/dod-medp-2.jpg" />
+							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-2.jpg" />
 						</div>
 					</div>
 				</div>
 				<div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Медицинская подготовка»<br />С 14:00 до 15:00</p>
+					<p class="text-center h2">Программа «Косметология»<br />С 14:00 до 15:00</p>
 					<hr />
 					<div class="row mb-10 mb-xs-0">
 						<div class="col-md-6">
@@ -83,13 +83,10 @@
 									Презентация центра;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Понятие младшая медицинская сестра;
+									Презентация кафедры и все о курсах;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Сестринские манипуляции;
-								</li>
-								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Первая доврачебная помощь при чрезвычайных ситуациях;
+									Мастер класс «Аппаратная косметология»;
 								</li>
 								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;"
 									class="bold">Скидки до 50%.
@@ -98,16 +95,16 @@
 						</div>
 						<div class="col-md-6">
 							<div class="row">
-								<div class="col-md-5 mx-auto">
+								<!--<div class="col-md-5 mx-auto">
 									<a href="/about/prepodavateli/kafedra-meditsinskoj-podgotovki/veselko-maksim-petrovich" target="_blank">
 										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/VeselkoMP_3cdf17976eeb824e62016e869c642f2f.jpg" />
 									</a>
-								</div>
+								</div>-->
 
 								<div class="col-md-7 mx-auto">
 									<p class="bold" style="font-size: 17px;">
-										<a href="/about/prepodavateli/kafedra-meditsinskoj-podgotovki/veselko-maksim-petrovich" target="_blank">
-											Преподаватель:<br />Веселко Максим Петрович
+										<!--<a href="/about/prepodavateli/kafedra-meditsinskoj-podgotovki/veselko-maksim-petrovich" target="_blank">-->
+											Преподаватель:<br />Санина Оксана Николаевна
 										</a>
 									</p>
 								</div>
@@ -130,7 +127,7 @@
 
 			<div class="col-12"
 				style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:30</p>
+				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:00 до 16:00</p>
 				<hr />
 				<div class="row mb-10 mb-xs-10">
 					<div class="col-md-6">
@@ -142,10 +139,7 @@
 								Презентация кафедры и все о курсах;
 							</li>
 							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Знакомство с методиками и техниками оздоровительного массажа;
-							</li>
-							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Знакомство с различными видами массажа лица;
+								Погружение в профессию «Массажист»;
 							</li>
 							<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
 								Скидки до 50%.
@@ -155,13 +149,13 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-5 mx-auto">
-								<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev_34aaa1dad412c7aba47833a4be20c8d0.jpg" />
+								<a href="/about/prepodavateli/kafedra-medmassaja/mihail-yurevich-selyavin" target="_blank">
+									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/10_62e12b76d2c03_6f0cb80798084f5664773680a2850545.jpg" />
 								</a>
 							</div>
 							<div class="col-md-7 mx-auto">
 								<p class="bold" style="font-size: 17px;">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">Преподаватель:<br />Шепелев Владимир Иванович
+									<a href="/about/prepodavateli/kafedra-medmassaja/mihail-yurevich-selyavin" target="_blank">Преподаватель:<br />Селявин Михаил Юрьевич
 									</a>
 								</p>
 							</div>
@@ -175,9 +169,9 @@
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 15 мая с 14:00 до 16:30 по адресу: м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, аудитория 220/3</p>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Медицинская подготовка» с 14:00 до 15:00.</p>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:30 до 16:30.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 29 мая с 14:00 до 16:00 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост д.215, аудитория 4002/6</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 14:00 до 15:00.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:00 до 16:00.</p>
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -187,7 +181,7 @@
 		data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="15.05.2024 14:00">15.05.2024 14:00</option>
+		<option value="29.05.2024 14:00">29.05.2024 14:00</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на бесплатное мероприятие День открытых дверей в МЦПО (очно) с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
@@ -206,7 +200,7 @@
 
 </div>
 <!-- /MIDDLE -->
-<!-- How to find us KYZ --><!--
+<!-- How to find us KYZ -->
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -239,13 +233,13 @@
 				src="https://www.youtube.com/embed/SesecQpL0xU" title="YouTube video player"></iframe>
 		</div>
 	</div>
-</div>-->
+</div>
 
 
 <!-- / How to find us KYZ -->
 
 <!-- How to find us AVT -->
-
+<!--
 <h2 class="text-center mt-40">
 Как нас найти?
 </h2>
@@ -270,5 +264,5 @@
 				<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="border-radius: 10px; height: 262px; width: 100%;" frameborder="0" src="https://www.youtube.com/embed/lM_rA-pV3S8" title="Путеводитель до нового офиса | МЦПО"></iframe>
 		</div>
 </div>
-</div>
+</div>-->
 <!-- / How to find us AVT -->
