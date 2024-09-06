@@ -7,16 +7,16 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">4 сентября 2024 года,<br />с 15:30</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">11 сентября 2024 года,<br />с 14:00</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
 					<div><img class="rounded" src="images/geo-mer.png" style="width: 150px; height: 150px;" /></div>
 				</center>
 				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">
-					<a href="https://yandex.ru/maps/-/CDwAu6n4" target="_blank"> 
+					<a href="https://yandex.ru/maps/-/CDw1q2Nq" target="_blank"> 
 						<i class="fa fa-map fi mr-5 text-danger"></i>
-						ул. Ленинская Слобода, д.26, корп. С, аудитория 220/2
+						ул. Кузнецкий мост, д. 21/5, 1 под. аудит. 4002/6
 					</a>
 				</p>
 			</div>
@@ -68,15 +68,15 @@
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
-							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-3.jpg" />
+							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-1.jpg" />
 						</div>
 						<div class="col-md-6">
-							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-4.jpg" />
+							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-2.jpg" />
 						</div>
 					</div>
 				</div>
 				<div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:30</p>
+					<p class="text-center h2">Программа «Косметология<br />С 14:00 до 15:00</p>
 					<hr />
 					<div class="row mb-10 mb-xs-0">
 						<div class="col-md-6">
@@ -88,10 +88,7 @@
 									Презентация кафедры и все о курсах;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Знакомство с методиками и техниками оздоровительного массажа;
-								</li>
-								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Знакомство с основными приёмами классического массажа тела;
+									Мастер класс: «Демакияж. Уходовая процедура»;
 								</li>
 								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;"
 									class="bold">Скидки до 50%.
@@ -101,15 +98,15 @@
 						<div class="col-md-6">
 							<div class="row">
 								<div class="col-md-5 mx-auto">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev_34aaa1dad412c7aba47833a4be20c8d0.jpg" />
+									<a href="/about/prepodavateli/kafedra-kosmetologii/elena-yurevna-maruhnenko" target="_blank">
+										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/Marykhnenko_56c2ad7f6679b0f64d675d0b060dbc30.jpg" />
 									</a>
 								</div>
 
 								<div class="col-md-7 mx-auto">
 									<p class="bold" style="font-size: 17px;">
-										<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-											Преподаватель:<br />Шепелев Владимир Иванович
+										<a href="/about/prepodavateli/kafedra-kosmetologii/elena-yurevna-maruhnenko" target="_blank">
+											Преподаватель:<br />Марухненко Елена Юрьевна
 										</a>
 									</p>
 								</div>
@@ -178,9 +175,9 @@
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 4 сентября с 15:30 до 16:30 по адресу: м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, аудитория 220/2</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 11 сентября с 14:00 до 15:00 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, 1 под. аудит. 4002/6</p>
 	<!-- <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Медицинская подготовка» с 14:00 до 15:00.</p> -->
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:30 до 16:30.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 14:00 до 15:00.</p>
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -189,7 +186,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="04.09.2024 15:30">04.09.2024 15:30</option>
+		<option value="11.09.2024 14:00">11.09.2024 14:00</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
@@ -208,7 +205,7 @@
 
 </div>
 <!-- /MIDDLE -->
-<!-- How to find us KYZ --><!--
+<!-- How to find us KYZ -->
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -216,7 +213,7 @@
 <div class="row">
 	<div class="col-6 mx-auto">
 		<p class="text-center" style="padding: 20px 0; font-size: 17px;">
-			ул. Кузнецкий Мост, д. 21/5, под. 1, эт. 4, оф. 4002/5
+			ул. Кузнецкий Мост, д. 21/5, под. 1, эт. 4, оф. 4002/6
 		</p>
 
 		<div style="position:relative;overflow:hidden;">
@@ -242,12 +239,11 @@
 		</div>
 	</div>
 </div>
--->
 
 <!-- / How to find us KYZ -->
 
 <!-- How to find us AVT -->
-
+<!--
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -272,5 +268,5 @@
 			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="border-radius: 10px; height: 262px; width: 100%;" frameborder="0" src="https://www.youtube.com/embed/lM_rA-pV3S8" title="Путеводитель до нового офиса | МЦПО"></iframe>
 		</div>
 </div>
-</div>
+</div>-->
 <!-- / How to find us AVT -->
