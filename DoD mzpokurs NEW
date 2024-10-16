@@ -215,6 +215,31 @@
 </div>
 </div>
 
+<p class="mt-30 rgb-zagolovok" style="text-align: center;"><span class="text-green" style="font-weight: 900;">Записаться на </span> <span class="text-red" style="font-weight: 900;">День открытых дверей</span></p>
+
+<form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px; padding-top: 0;" id="freeEvent">
+	<input required="" type="text" name="name" class="form-control mb-15" placeholder="* Введите ваше имя" />
+	<input required="" type="email" name="email" class="form-control mb-15" placeholder="* Ваш Email" />
+	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
+	<select name="date" required="" id="date" class="form-control mb-15">
+		<option>* Выберите дату</option>
+		<option value="22.10.2024 16:00">22.10.2024 16:00</option>
+	</select>
+	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
+	<input type="hidden" name="events" value="true" />
+	<input type="hidden" name="event_name" value="День открытых дверей очно" />
+	<!--<input type="hidden" name="event_address" value="">-->
+	<input type="hidden" name="recaptcha_response" id="recaptchaPromos" />
+	<div class="text-center" style="margin-bottom: 5px;">
+		<button class="btn btn-red" type="submit">Зарегистрироваться</button>
+	</div>
+	<div class="linkLicense mb-15 text-center small" style="margin-top: 5px;">
+		<small>
+			Отправляя заявку, вы даете согласие на обработку персональных данных в соответствии c <a href="/privacy" target="_blank" style="color: #337ab7;">политикой конфиденциальности</a>
+		</small>
+	</div>
+</form>
+
 <div id="formHead">&nbsp;</div>
 <script>
   let slideIndex = 0;
