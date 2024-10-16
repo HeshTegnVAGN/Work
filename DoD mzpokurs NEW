@@ -1,0 +1,251 @@
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css">.flex-wrap {flex-wrap:wrap} .d-flex {display:flex} .justify-content-between {justify-content:space-between} .justify-content-center{justify-content: center;} .align-items-center {align-items:center} .mt-30 {margin-top:30px!important} .ms-10 {margin-left:10px!important} .head-dod {border-radius:20px; background-color:#f1f1f1; background-position:center center; border-color:transparent; border-style:solid} .time-dod {border-radius:20px; background-color:#ffffff; display:flex; align-items:center; column-gap:10px; width:auto; height:80px!important; padding-left:10px!important; padding-right:10px!important; margin-bottom:0} .place-dod {color:#d9261e; font-size:11px; font-family:'Montserrat',Arial,sans-serif; text-transform:uppercase; margin-bottom:0; font-weight:700} .gift-dod {color:#487a8a; font-size:11px; font-family:'Montserrat',Arial,sans-serif; text-transform:uppercase; margin-bottom:0; font-weight:700} .btn-head {color:#ffffff!important; font-size:14px; font-family:'Montserrat',Arial,sans-serif; line-height:1.55; font-weight:600; text-transform:uppercase; text-decoration:none; border-width:2px; border-radius:15px; background-color:#487a8a; background-position:center center; border-color:#487a8a; border-style:solid; transition:background-color 0.2s ease-in-out,color 0.2s ease-in-out,border-color 0.2s ease-in-out; padding:20px} .card_info {background-color:#f4fcff; display:flex; flex-direction:column; align-items:center; justify-content:center; padding:20px!important; border-radius:20px; color:#000; max-width:310px!important; text-align:center; border:1px solid #e4e9eb} .card_info,p:last-child {margin:0} .card_info,p:first-child {margin-top:0} .card_info img {width:40px} @media (max-width:576px) {.flex-wrap-xs {flex-wrap:wrap} .mx-xs-auto {margin-left:auto!important; margin-right:auto!important} } @media (max-width:768px) {.mx-sm-auto {margin-left:auto!important; margin-right:auto!important} .col-sm-12 {flex:0 0 100%; max-width:100%} .col-sm-11 {flex:0 0 91.666667%; max-width:91.666667%} .col-sm-10 {flex:0 0 83.333333%; max-width:83.333333%} .col-sm-9 {flex:0 0 75%; max-width:750%} .col-sm-8 {flex:0 0 66.666667%; max-width:66.666667%} .col-sm-7 {flex:0 0 58.333333%; max-width:58.333333%} .col-sm-6 {flex:0 0 50%; max-width:50%} .col-sm-5 {flex:0 0 41.666667%; max-width:41.666667%} .col-sm-4 {flex:0 0 33.333333%; max-width:33.333333%} .col-sm-3 {flex:0 0 0 0 25%; max-width:25%} .col-sm-2 {flex:0 0 16.666667%; max-width:16.666667%} .mt-sm-20 {margin-top: 20px!important;} .ps-sm-x-3 {padding:0 20px!important} .fs-sm-16 {font-size:16px!important} .w-sm-100 {width:100%!important} .flex-wrap-sm {flex-wrap:wrap} .mb-sm-20 {margin-bottom:20px!important} .card_info {display:inline-block; margin-bottom:20px!important} .head-dod {text-align:center!important} .ps-sm-0 {padding-left:0!important} } @media (min-width:769px) {.mx-md-auto {margin-left:auto!important; margin-right:auto!important} .col-md-10 {flex:0 0 83.333333%; max-width:83.333333%} .col-md-9 {flex:0 0 75%; max-width:75%} .col-md-8 {flex:0 0 66.666667%; max-width:66.666667%} .col-md-6 {flex:0 0 50%; max-width:50%} .col-md-4 {flex:0 0 33.333333%} .col-md-3 {flex:0 0 24%; max-width:24%} .ps-md-60 {padding-left:60px!important} .d-flex-md {display:flex} } .mx-auto {margin-left:auto!important; margin-right:auto!important} .slider-container {position:relative; width:80%; margin:auto; overflow:hidden} .slides {display:flex; transition:transform 0.5s ease-in-out} .slide {display:none; width:100%; opacity:0; animation:ani 2.5s forwards} @keyframes ani {0% {opacity:0} 100% {opacity:1} } .active {display:block; opacity:1; animation:ani 2.5s forwards} .slide img {width:100%; height:auto} .prev,.next {top:50%; background-color:rgba(0,0,0,0.5); color:white; background-color:#487a8a; border-radius:50%; border:none; padding:10px 15px!important; cursor:pointer; z-index:1} .prev {left:10px} .next {right:10px} .prev:hover,.next:hover {background-color:#2a3f46} ul.dod-ul {list-style-type:disc} ul.dod-ul li::marker {color:#487a8a} .my-auto {margin-top:auto!important; margin-bottom:auto!important} .gift {border:3px #487a8a solid; border-radius:20px; padding:20px!important; text-align:center; font-size:20px; color:#487a8a; align-items:center; justify-content:center} .rgb-zagolovok {font-size:1.3rem; text-align:left; margin-bottom:10px!important; text-transform:uppercase} .voporosi-dod {font-size:17px; text-align:left; display:inline-flex; column-gap:50px} .text-green {color:#487a8a} .text-red {color:#d9261e} .mb-0 {margin-bottom:0!important} .mt-0 {margin-top:0!important} .fs-17 {font-size:17px!important}
+</style>
+<div style="font-family: 'Montserrat',Arial,sans-serif; text-align: left;">
+<div class="head-dod">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center;">
+<div class="col-sm-12 col-md-5 ps-sm-x-20 mt-sm-20"><!-- Место -->
+<div style="display: inline-block;">
+<div class="time-dod">
+<div><img alt="" src="https://www.mzpo-s.ru/tilda/10577917/images/tild6536-6564-4963-b437-343031633266__kerfin7_nea_3161.png" style="width: 30px;" /></div>
+
+<div>
+<p class="place-dod">МОСКВА, МЕТРО &laquo;кузнецкий мост&raquo;<br />
+22 октября 2024 ГОДА В 16:00</p>
+</div>
+</div>
+</div>
+<!-- Заголовок -->
+
+<div style="font-weight: bold;margin-top: 10px;font-size: 25px;text-transform: uppercase;">
+<p class="text-green" style="margin-bottom: 0;">День открытых дверей</p>
+
+<p style="margin-top: 5px;">для Косметологов</p>
+</div>
+<!-- форма -->
+
+<div style="margin: 40px 0 40px 0;"><a class="btn-head" href="#formHead">Запись на День открытых дверей</a></div>
+<!-- скидка -->
+
+<div style="display: inline-block; margin-top: 10px;">
+<div class="time-dod">
+<div><img alt="" src="https://www.mzpo-s.ru/tilda/10577917/images/tild3836-3430-4664-b835-363261386330__gifts3.png" style="width: 30px;" /></div>
+
+<div>
+<p class="gift-dod">ВСЕМ ПОСЕТИТЕЛЯМ &mdash; СКИДКИ ДО 50%<br />
+ПРИ ПОКУПКЕ КУРСА В ДЕНЬ МЕРОПРИЯТИЯ</p>
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-sm-12 col-md-5 d-flex justify-content-center" style="margin: 20px 0;">
+<div style="background-image:url(https://static.tildacdn.com/tild6462-3234-4965-b032-613830323539/1_2-min.jpg);background-size: cover;background-position: 10%;width: 400px;height: 400px;border-radius: 20px;">&nbsp;</div>
+</div>
+</div>
+</div>
+<!-- info -->
+
+<div class="d-flex-md justify-content-between" style="margin-top: 30px;">
+<div class="card_info col-sm-12 col-md-3">
+<p><img alt="" src="https://www.mzpo-s.ru/tilda/10577917/images/tild3763-6131-4731-b931-353466396563__mask_group-2.png" /></p>
+
+<p style="margin-bottom: 10px!important;">Можно ли стать косметологом без медицинского образования (можно!)</p>
+</div>
+
+<div class="card_info col-sm-12 col-md-3">
+<p><img alt="" src="https://www.mzpo-s.ru/tilda/10577917/images/tild3437-3139-4339-a237-653139326633__mask_group.png" /></p>
+
+<p style="margin-bottom: 10px!important;">Как построить карьеру и зарабатывать от 150 тыс. руб.</p>
+</div>
+
+<div class="card_info col-sm-12 col-md-3">
+<p><img alt="" src="https://www.mzpo-s.ru/tilda/10577917/images/tild3262-3336-4533-b663-353136353034__mask_group-3.png" /></p>
+
+<p style="margin-bottom: 10px!important;">Где взять уверенность для работы с первыми клиентами</p>
+</div>
+
+<div class="card_info col-sm-12 col-md-3">
+<p><img alt="" src="https://www.mzpo-s.ru/tilda/10577917/images/tild3939-3133-4232-a331-306162626331__mask_group.png" /></p>
+
+<p style="margin-bottom: 10px!important;">Каким должно быть эффективное и качественное обучение</p>
+</div>
+</div>
+<!-- o centre -->
+
+<div class="d-flex justify-content-between mt-30 flex-wrap">
+<div class="col-md-10 col-sm-9 mb-sm-20">
+<p class="rgb-zagolovok"><span class="text-green" style="font-weight: 900;">МЕЖДУНАРОДНЫЙ ЦЕНТР ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ</span></p>
+</div>
+
+<div class="col-md-2 col-sm-3 text-center">
+<div><img alt="" src="/images/logo/logo.png" /></div>
+</div>
+</div>
+
+<div class="d-flex flex-wrap justify-content-between mt-30">
+<div class="d-flex align-items-center col-sm-12 col-md-3"><img alt="" src="https://optim.tildacdn.com/tild6234-3934-4835-a265-613133616338/-/resize/39x/-/format/webp/Mask_group-1.png" />
+<p class="ms-10">Основан в 1994 году</p>
+</div>
+
+<div class="d-flex align-items-center col-sm-12 col-md-3"><img alt="" src="https://optim.tildacdn.com/tild6533-3962-4031-b461-666434663539/-/resize/39x/-/format/webp/Mask_group-3.png" />
+<p class="ms-10">250 курсов по массажу и косметологии</p>
+</div>
+
+<div class="d-flex align-items-center col-sm-12 col-md-3"><img alt="" src="https://optim.tildacdn.com/tild3262-6634-4366-b939-323062386562/-/resize/39x/-/format/webp/Mask_group.png" />
+<p class="ms-10">350 000 выпускников</p>
+</div>
+
+<div class="d-flex align-items-center col-sm-12 col-md-3"><img alt="" src="https://optim.tildacdn.com/tild3439-3032-4262-b131-373566316632/-/resize/39x/-/format/webp/Mask_group-2.png" />
+<p class="ms-10">Образовательная лицензия</p>
+</div>
+</div>
+
+<p class="mt-30 rgb-zagolovok"><span class="text-red" style="font-weight: 900;">Много практики и талантливые преподаватели</span> <span class="text-green" style="font-weight: 900;">&ndash; за это нас ценят ученики</span></p>
+<!-- slider -->
+
+<div class="slider-container w-sm-100">
+<div class="slides w-sm-100" style="width: 80%; margin-left: auto; margin-right: auto;">
+<div class="slide active" style="border: 0!important;"><img alt="Slide 1" src="https://optim.tildacdn.com/tild6263-3339-4265-a365-313430373334/-/format/webp/Frame405.jpg" /></div>
+
+<div class="slide" style="border: 0!important;"><img alt="Slide 2" src="https://optim.tildacdn.com/tild6361-3761-4130-b562-313464613939/-/format/webp/Frame_259.jpg" /></div>
+
+<div class="slide" style="border: 0!important;"><img alt="Slide 3" src="https://optim.tildacdn.com/tild3231-3261-4666-b838-313438326539/-/format/webp/Frame_260.jpg" /></div>
+</div>
+
+<div class="d-flex" style="justify-content: center; gap: 100px; margin-top: 10px;"><button class="prev" onclick="moveSlide(-1)">❮</button><button class="next" onclick="moveSlide(1)">❯</button></div>
+</div>
+
+<p class="mt-30 rgb-zagolovok"><span class="text-green" style="font-weight: 900;">Все условия,</span> <span class="text-red" style="font-weight: 900;"> чтобы вы стали уверенным профессионалом</span></p>
+<!-- preim -->
+
+<div class="d-flex flex-wrap">
+<div class="col-md-5 col-sm-12 mb-sm-20 mx-xs-auto mx-auto my-auto" style="width: 500px; height: 400px!important; background-image: url(https://static.tildacdn.com/tild3636-3839-4366-b436-636665396130/pexels-ivan-samkov-5.jpg); border-radius: 20px; background-position: 20% 80.888%; background-size: 120%;">&nbsp;</div>
+
+<div class="col-md-6 col-sm-12 my-auto">
+<ul class="dod-ul fs-sm-16" style="line-height: 30px; font-size: 18px; text-align: left;">
+	<li style="list-style-type:disc; padding-bottom: 0;">В основе курсов лежит много практики и тщательно подобранная теория</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Возможность трудоустройства в компании-партнёры</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Диплом об окончании вносится в государственный реестр (ФИС ФРДО)</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Удобный график на выбор: в будние или в выходные дни</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Опытные преподаватели, которые уже обучили сотни учеников</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Можно начать учиться в ближайшие дни</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Программа обучения, включающая самые популярные на рынке техники и проблемы клиентов</li>
+	<li style="list-style-type:disc; padding-bottom: 0;">Обучение проходит в центре Москвы &ndash; у метро &ldquo;Автозаводская&rdquo; и &ldquo;Кузнецкий мост&rdquo;</li>
+</ul>
+</div>
+</div>
+<!-- programm -->
+
+<div class="d-flex flex-wrap mt-30" style="background-color: #292929; color: #e1e1e1; border-radius: 20px; padding: 30px;">
+<div class="col-5 mx-auto my-auto">
+<p style="font-size: 20px; text-transform: uppercase; padding-bottom: 10px;"><b>Наши программы:</b></p>
+
+<ul class="dod-ul fs-sm-16" style="line-height: 30px; font-size: 20px; text-align: left;">
+	<li style="list-style-type:disc; margin-left: 20px;">Медицинская и эстетическая косметология</li>
+	<li style="list-style-type:disc; margin-left: 20px;">Аппаратная и инъекционная косметология</li>
+	<li style="list-style-type:disc; margin-left: 20px;">Архитектура бровей и ресниц</li>
+	<li style="list-style-type:disc; margin-left: 20px;">Массажи лица</li>
+</ul>
+</div>
+
+<div class="col-5 mb-sm-20 mx-auto" style="width: 580px; height: 400px!important; background-image: url(https://static.tildacdn.com/tild3661-6337-4130-b135-313038323566/pexels-gustavo-fring.jpg); border-radius: 20px; background-position: 0.000% 14.404%; background-size: cover; margin-left: auto;">&nbsp;</div>
+</div>
+
+<p class="mt-30 rgb-zagolovok"><span class="text-green" style="font-weight: 900;">Познакомьтесь с преподавателями</span><br />
+<span class="text-red" style="font-weight: 900;">и задайте вопросы по курсам на Дне открытых дверей</span></p>
+<!-- voprosi dod -->
+
+<ul class="dod-ul fs-sm-16 flex-wrap-sm voporosi-dod">
+	<li style="list-style-type:disc; margin-left: 20px;">Узнаете, как проходит обучение на косметолога</li>
+	<li style="list-style-type:disc;">Зададите вопросы лично преподавателям</li>
+	<li style="list-style-type:disc;">Посетите мастер-класс от наших партнёров</li>
+	<li style="list-style-type:disc;">На фуршете познакомитесь с другими учениками и нашим центром</li>
+</ul>
+<!-- gift -->
+
+<div class="d-flex flex-wrap fs-sm-16 gift mt-30">
+<div><img alt="" src="https://optim.tildacdn.com/tild3836-3430-4664-b835-363261386330/-/resize/73x/-/format/webp/gifts3.png" /></div>
+
+<div>Всем посетителям &mdash; скидки до 50%<br />
+при покупке курса в день мероприятия</div>
+</div>
+<!-- <div class="d-flex flex-wrap mt-30" style="background-color: #f4fcff; border-radius: 20px; padding: 30px; box-shadow: 0px 0px 33px 0px rgba(22,75,93,0.3);">
+<div class="col-md-6 col-sm-12 my-auto ps-sm-0" style="padding-left: 50px; text-align: left;">
+<p class="text-green mb-0" style="font-size: 20px; text-transform: uppercase;"><b>Как стать массажистом без медицинского образования</b></p>
+
+<p class="mt-0 fs-17">Начало в 14:30</p>
+
+<p class="fs-17" style="text-transform: uppercase;"><b>Ведущая &ndash; Копытцева Валентина Николаевна</b></p>
+
+<p class="fs-17"><b>Стаж в массаже:</b> 20 лет<br />
+<b>Стаж в преподавании:</b> 10 лет</p>
+
+<p class="fs-17">Среднее медицинское образование &quot;Сестринское дело в педиатрии&quot;. Дополнительная специализация &ldquo;Медицинский массаж&rdquo;.</p>
+
+<p class="mb-sm-20 fs-17">Преподаватель курсов по массажам тела и лица, ЛФК, косметологии.</p>
+</div>
+
+<div class="col-md-4 col-sm-12 mb-sm-20" style="width: 600px; height: 450px!important; background-image: url(https://mirk.msk.ru/d/koplitceva.jpg); border-radius: 20px; background-position: 0.000% 3.404%; background-size: 100.000%; margin-left: auto;">&nbsp;</div>
+</div> -->
+
+<div class="d-flex flex-wrap mt-30" style="background-color: #f4fcff; border-radius: 20px; padding: 30px; box-shadow: 0px 0px 33px 0px rgba(22,75,93,0.3);">
+<div class="col-md-5 my-auto ps-sm-0" style="padding-left: 50px; text-align: left;">
+ <p class="text-green mb-0" style="font-size: 20px; text-transform: uppercase; margin-bottom: 10px!important;"><b>Протокол «На выход»</b></p>
+<!--<br /><b>+ Рассказ о центре и курсах</b> -->
+
+<p class="mt-0 fs-17" style="font-weight: 600; margin-bottom: 10px!important;">Начало в 16:00</p>
+
+<!-- <p class="fs-17" style="text-transform: uppercase;"><b>Ведущий &ndash; Шепелев Владимир Иванович</b></p> -->
+
+<!-- <p class="fs-17"><b>Стаж в массаже:</b> 20 лет</p> -->
+
+<p class="fs-17 mb-30">Очищение по типу кожи, глубокое очищение энзимный пилинг, восстанавливающая маска, лифтинг сыворотка, выравнивающий крем</p>
+
+<!-- <p class="mb-sm-20 fs-17">Преподаватель курсов по массажу тела и лица, ЛФК.</p> -->
+<p class="text-green mb-0" style="font-size: 20px; text-transform: uppercase; margin-bottom: 10px!important;"><b>Протокол «Для блеска глаз и губ»</b></p>
+
+<p class="mt-0 fs-17" style="font-weight: 600; margin-bottom: 10px!important;">Начало в ~ 16:30</p>
+
+<p class="fs-17">Набор для интенсивного увлажнения глаз и губ, защитный бальзам для губ на основе масла какао</p>
+
+</div>
+
+<div class="col-md-5 mb-sm-20" style="width: 420px; height: 600px!important; background-image: url(https://static.tildacdn.com/tild3236-3963-4066-b438-653664636232/image.png); border-radius: 20px; background-position: 0.000% 3.404%; background-size: cover; margin-left: auto;">&nbsp;</div>
+</div>
+</div>
+
+<div id="formHead">&nbsp;</div>
+<script>
+  let slideIndex = 0;
+
+  function showSlide(index) {
+      const slides = document.querySelectorAll('.slide');
+      slides.forEach(slide => slide.classList.remove('active'));
+      if (index >= slides.length) slideIndex = 0;
+      else if (index < 0) slideIndex = slides.length - 1;
+      else slideIndex = index;
+      slides[slideIndex].classList.add('active');
+  }
+
+  function moveSlide(step) {
+      showSlide(slideIndex + step);
+  }
+
+  showSlide(slideIndex);
+</script><script>
+	document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+		anchor.addEventListener('click', function (e) {
+			e.preventDefault();
+
+			const targetElement = document.querySelector(this.getAttribute('href'));
+
+			if (targetElement) {
+				window.scrollTo({
+					top: targetElement.offsetTop,
+					behavior: 'smooth'
+				});
+			}
+		});
+	});
+</script>
