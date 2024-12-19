@@ -7,7 +7,7 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">19 декабря 2024 года,<br />с 15:00</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">24 декабря 2024 года,<br />с 13:00</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
@@ -76,47 +76,47 @@
 					</div>
 				</div>
 				<div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Косметология»<br />С 15:00 до 18:00</p>
+					<p class="text-center h2">Программа «Косметология»<br />С 13:00 до 14:00</p>
 					<hr />
 					<div class="row mb-10 mb-xs-0">
 						<div class="col-md-6 mx-auto">
 							<ul style="padding-left: 30px; text-align: left; font-size: 17px;">
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									<strong>Протокол «На выход»</strong> - очищение по типу кожи, глубокое очищение энзимный пилинг, восстанавливающая маска, лифтинг сыворотка, выравнивающий крем;
+									Презентация центра;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									<strong>Протокол «Мгновенное преображение»</strong> - поверхностное очищение по типу кожи, успокаивающая сыворотка + восстанавливающая маска, успокаивающий крем для всех типов кожи;
+									Презентация кафедры и все о курсах;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									<strong>Протокол «Для блеска глаз и губ»</strong> - набор для интенсивного увлажнения глаз и губ, защитный бальзам для губ на основе масла какао;
+									Мастер-класс «Микротоковая терапия в косметологии»;
 								</li>
 								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;"
 									class="bold">Скидки до 50%.
 								</li>
 							</ul>
 						</div>
-						<!--<div class="col-md-6">
+						<div class="col-md-6">
 							<div class="row">
 								<div class="col-md-5 mx-auto">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vadim-grigorevich-yusupov" target="_blank">
-										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/YsypovV_0b15370db6432477e2bbd4153ed0318b.jpg" />
+									<a href="/about/prepodavateli/kafedra-kosmetologii/elena-yurevna-maruhnenko" target="_blank">
+										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/Marykhnenko_56c2ad7f6679b0f64d675d0b060dbc30.jpg" />
 									</a>
 								</div>
 
 								<div class="col-md-7 mx-auto">
 									<p class="bold" style="font-size: 17px;">
-										<a href="/about/prepodavateli/kafedra-medmassaja/vadim-grigorevich-yusupov" target="_blank">
-											Преподаватель:<br />Вадим Григорьевич Юсупов
+										<a href="/about/prepodavateli/kafedra-kosmetologii/elena-yurevna-maruhnenko" target="_blank">
+											Преподаватель:<br />Марухненко Елена Юрьевна
 										</a>
 									</p>
 								</div>
 							</div>
-						</div>-->
+						</div>
 					</div>
 				</div>
 			</div>
 
-			<!--
+			
 			<div class="section section-xs">
 				<div class="row mt-20 mb-30">
 					<div class="col-md-6">
@@ -130,7 +130,7 @@
 
 			<div class="col-12"
 				style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:30</p>
+				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 14:30 до 15:30</p>
 				<hr />
 				<div class="row mb-10 mb-xs-10">
 					<div class="col-md-6">
@@ -142,10 +142,7 @@
 								Презентация кафедры и все о курсах;
 							</li>
 							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Знакомство с методиками и техниками оздоровительного массажа;
-							</li>
-							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Знакомство с различными видами массажа лица;
+								Погружение в профессию «Массажист»;
 							</li>
 							<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
 								Скидки до 50%.
@@ -155,13 +152,15 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-5 mx-auto">
-								<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev_34aaa1dad412c7aba47833a4be20c8d0.jpg" />
+								<a href="/about/prepodavateli/kafedra-medmassaja/vadim-grigorevich-yusupov" target="_blank">
+									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/YsypovV_0b15370db6432477e2bbd4153ed0318b.jpg" />
 								</a>
 							</div>
+
 							<div class="col-md-7 mx-auto">
 								<p class="bold" style="font-size: 17px;">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">Преподаватель:<br />Владимир Иванович Шепелев
+									<a href="/about/prepodavateli/kafedra-medmassaja/vadim-grigorevich-yusupov" target="_blank">
+										Преподаватель:<br />Юсупов Вадим Григорьевич
 									</a>
 								</p>
 							</div>
@@ -169,15 +168,15 @@
 					</div>
 				</div>
 			</div>
-			-->
+			
 		
 		</div>
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 19 декабря с 15:00 до 18:00 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, 1 под. аудит. 4002/5</p>
-	<!-- <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Медицинская подготовка» с 14:00 до 15:00.</p> 
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 15:00 до 18:00.</p>-->
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 24 декабря с 13:00 до 15:30 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, 1 под. аудит. 4002/5</p>
+  <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 13:00 до 14:00.</p> 
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 14:30 до 15:30.</p>
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -186,7 +185,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="19.12.2024 15:00">19.12.2024 15:00</option>
+		<option value="24.12.2024 13:00">24.12.2024 13:00</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
