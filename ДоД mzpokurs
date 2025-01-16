@@ -7,16 +7,16 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">15 января 2025 года,<br />с 16:00</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">22 января 2025 года,<br />с 15:30</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
 					<div><img class="rounded" src="images/geo-mer.png" style="width: 150px; height: 150px;" /></div>
 				</center>
 				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">
-					<a href="https://yandex.ru/maps/-/CDw1q2Nq" target="_blank"> 
+					<a href="https://yandex.ru/maps/-/CHUtFEMb" target="_blank"> 
 						<i class="fa fa-map fi mr-5 text-danger"></i>
-						ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5
+						м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, этаж 2, аудитория 220/1
 					</a>
 				</p>
 			</div>
@@ -48,7 +48,7 @@
 			<p style="font-size: 17px; line-height: 20px; margin-bottom: 10px!important;">
 				«МЦПО» и «МИРК» проводит день открытых дверей для всех, кто собирается обрести новую профессию и новые знания! Мы учли пожелания наших слушателей и разделили аудитории Дня открытых дверей по интересам и кафедрам. Вы услышите выступления экспертов и преподавателей, в мини-мастер классах, услышите истории успеха выпускников, сможете задать вопросы работодателю и узнать секреты карьеры успешных специалистов!
 			</p>
-			<p style="font-size: 17px; line-height: 20px; margin-bottom: 10px!important; margin: 10px 0px; border: solid #127b8b 2px !important; border-radius: 10px !important; padding: 10px !important; margin-left: auto!important; margin-right: auto!important; width: 530px; text-align: center">
+			<p style="font-size: 17px; line-height: 20px; margin-bottom: 10px!important; margin: 10px 0px; border: solid #1b245e 2px !important; border-radius: 10px !important; padding: 10px !important; margin-left: auto!important; margin-right: auto!important; width: 530px; text-align: center">
 				Всем участникам гарантированы - <span style="font-weight: bold !important; color: #FF4136 !important">скидки, знания, много шампанского и фуршет!</span>
 			</p>
 
@@ -63,7 +63,7 @@
 		</div>
 
 		<div class="col-12 mx-auto">
-
+<!--
 			<div class="col-12 mx-auto">
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
@@ -114,9 +114,8 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div>-->
 
-			<!--
 			<div class="section section-xs">
 				<div class="row mt-20 mb-30">
 					<div class="col-md-6">
@@ -130,7 +129,7 @@
 
 			<div class="col-12"
 				style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 14:30 до 15:30</p>
+				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:30</p>
 				<hr />
 				<div class="row mb-10 mb-xs-10">
 					<div class="col-md-6">
@@ -142,7 +141,10 @@
 								Презентация кафедры и все о курсах;
 							</li>
 							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Погружение в профессию «Массажист»;
+								Знакомство с методиками и техниками оздоровительного массажа;
+							</li>
+							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
+								Знакомство с основными приёмами классического массажа тела и лица;
 							</li>
 							<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
 								Скидки до 50%.
@@ -152,30 +154,30 @@
 					<div class="col-md-6">
 						<div class="row">
 							<div class="col-md-5 mx-auto">
-								<a href="/about/prepodavateli/kafedra-medmassaja/vadim-grigorevich-yusupov" target="_blank">
-									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/YsypovV_0b15370db6432477e2bbd4153ed0318b.jpg" />
+								<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
+									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev_34aaa1dad412c7aba47833a4be20c8d0.jpg" />
 								</a>
 							</div>
 
 							<div class="col-md-7 mx-auto">
 								<p class="bold" style="font-size: 17px;">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vadim-grigorevich-yusupov" target="_blank">
-										Преподаватель:<br />Юсупов Вадим Григорьевич
+									<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
+										Преподаватель:<br />Шепелев Владимир Иванович
 									</a>
 								</p>
 							</div>
 						</div>
 					</div>
 				</div>
-			</div>-->
+			</div>
 			
 		
 		</div>
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 15 января с 16:00 до 17:00 по адресу:<br>
-		м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 22 января с 15:30 до 16:30 по адресу:<br>
+		м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, аудитория 220/1</p>
   <!--<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 13:00 до 14:00.</p> 
 	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 14:30 до 15:30.</p>-->
 </center>
@@ -186,7 +188,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="15.01.2025 16:00">15.01.2025 16:00</option>
+		<option value="22.01.2025 15:30">22.01.2025 15:30</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
@@ -205,7 +207,7 @@
 
 </div>
 <!-- /MIDDLE -->
-<!-- How to find us KYZ -->
+<!-- How to find us KYZ --><!--
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -238,12 +240,12 @@
 				src="https://www.youtube.com/embed/SesecQpL0xU" title="YouTube video player"></iframe>
 		</div>
 	</div>
-</div>
+</div>-->
 
 <!-- / How to find us KYZ -->
 
 <!-- How to find us AVT -->
-<!--
+
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -268,5 +270,5 @@
 			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="border-radius: 10px; height: 262px; width: 100%;" frameborder="0" src="https://www.youtube.com/embed/lM_rA-pV3S8" title="Путеводитель до нового офиса | МЦПО"></iframe>
 		</div>
 </div>
-</div>-->
+</div>
 <!-- / How to find us AVT -->
