@@ -7,7 +7,7 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">29 января 2025 года,<br />с 13:30</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">13 февраля 2025 года,<br />с 15:00</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
@@ -16,7 +16,7 @@
 				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">
 					<a href="https://yandex.ru/maps/-/CHaCz8oO" target="_blank"> 
 						<i class="fa fa-map fi mr-5 text-danger"></i>
-						м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 6
+						м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5
 					</a>
 				</p>
 			</div>
@@ -66,6 +66,59 @@
 		<div class="col-12 mx-auto">
 
 			<div class="col-12 mx-auto">
+
+				<div class="section section-xs">
+					<div class="row mt-20 mb-30">
+						<div class="col-md-6">
+							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-3.jpg" />
+						</div>
+						<div class="col-md-6">
+							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-4.jpg" />
+						</div>
+					</div>
+				</div>
+	
+				<div class="col-12"
+					style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
+					<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:00 до 16:00</p>
+					<hr />
+					<div class="row mb-10 mb-xs-10">
+						<div class="col-md-6">
+							<ul style="padding-left: 30px; text-align: left; font-size: 17px;">
+								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
+									Презентация центра;
+								</li>
+								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
+									Презентация кафедры и все о курсах;
+								</li>
+								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
+									Погружение в профессию «Массажист»;
+								</li>
+								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
+									Скидки до 50%.
+								</li>
+							</ul>
+						</div>
+						<div class="col-md-6">
+							<div class="row">
+								<div class="col-md-5 mx-auto">
+									<a href="/about/prepodavateli/kafedra-medmassaja/valentina-nikolaevna-kapytceva" target="_blank">
+										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/KopitcevaV_2173c859c08d7f176bd285e2e9c9824e.jpg" />
+									</a>
+								</div>
+	
+								<div class="col-md-7 mx-auto">
+									<p class="bold" style="font-size: 17px; text-align: left;">
+										<a href="/about/prepodavateli/kafedra-medmassaja/valentina-nikolaevna-kapytceva" target="_blank">
+											Преподаватель:<br />Копытцева Валентина Николаевна
+										</a>
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
@@ -76,8 +129,9 @@
 						</div>
 					</div>
 				</div>
+
 				<div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Косметология»<br />С 13:30 до 14:30</p>
+					<p class="text-center h2">Программа «Косметология»<br />С 16:00 до 17:30</p>
 					<hr />
 					<div class="row mb-10 mb-xs-0">
 						<div class="col-md-6 mx-auto">
@@ -89,25 +143,25 @@
 									Презентация кафедры и все о курсах;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Мастер-класс «Массаж лица, как профилактика старения»;
+									Мастер-класс «Уходовые процедуры»;
 								</li>
-								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;"
-									class="bold">Скидки до 50%.
+								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
+									Скидки до 50%.
 								</li>
 							</ul>
 						</div>
 						<div class="col-md-6">
 							<div class="row">
 								<div class="col-md-5 mx-auto">
-									<a href="/about/prepodavateli/kafedra-kosmetologii/elena-yurevna-maruhnenko" target="_blank">
-										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/Marykhnenko_56c2ad7f6679b0f64d675d0b060dbc30.jpg" />
+									<a href="/about/prepodavateli/kafedra-kosmetologii/evgeniya-sergeevna-nagornaya" target="_blank">
+										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/NagonayaE_ce3ae32654dbf4bb236aaf8866d84f24.jpg" />
 									</a>
 								</div>
 
 								<div class="col-md-7 mx-auto">
 									<p class="bold" style="font-size: 17px;">
-										<a href="/about/prepodavateli/kafedra-kosmetologii/elena-yurevna-maruhnenko" target="_blank">
-											Преподаватель:<br />Марухненко Елена Юрьевна
+										<a href="/about/prepodavateli/kafedra-kosmetologii/evgeniya-sergeevna-nagornaya" target="_blank">
+											Преподаватель:<br />Нагорная Евгения Сергеевна
 										</a>
 									</p>
 								</div>
@@ -116,67 +170,15 @@
 					</div>
 				</div>
 			</div>
-
-			<div class="section section-xs">
-				<div class="row mt-20 mb-30">
-					<div class="col-md-6">
-						<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-3.jpg" />
-					</div>
-					<div class="col-md-6">
-						<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/01/files/dod-4.jpg" />
-					</div>
-				</div>
-			</div>
-
-			<div class="col-12"
-				style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-				<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:30</p>
-				<hr />
-				<div class="row mb-10 mb-xs-10">
-					<div class="col-md-6">
-						<ul style="padding-left: 30px; text-align: left; font-size: 17px;">
-							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Презентация центра;
-							</li>
-							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Презентация кафедры и все о курсах;
-							</li>
-							<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-								Погружение в профессию «Массажист»;
-							</li>
-							<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
-								Скидки до 50%.
-							</li>
-						</ul>
-					</div>
-					<div class="col-md-6">
-						<div class="row">
-							<div class="col-md-5 mx-auto">
-								<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-									<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev_34aaa1dad412c7aba47833a4be20c8d0.jpg" />
-								</a>
-							</div>
-
-							<div class="col-md-7 mx-auto">
-								<p class="bold" style="font-size: 17px;">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-										Преподаватель:<br />Шепелев Владимир Иванович
-									</a>
-								</p>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			
 		
 		</div>
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 29 января с 13:30 до 16:00 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 6</p>
-  <p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 13:30 до 14:30.</p> 
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 13 февраля с 15:00 до 17:30 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5</p>
+  
 	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:00 до 16:00.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 16:00 до 17:30.</p>
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -185,7 +187,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="29.01.2025 13:30">29.01.2025 13:30</option>
+		<option value="13.02.2025 15:00">13.02.2025 15:00</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
@@ -212,7 +214,7 @@
 <div class="row">
 	<div class="col-6 mx-auto">
 		<p class="text-center" style="padding: 20px 0; font-size: 17px;">
-			ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 6
+			ул. Кузнецкий мост, д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5
 		</p>
 
 		<div style="position:relative;overflow:hidden;">
