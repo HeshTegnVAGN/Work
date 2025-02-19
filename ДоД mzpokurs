@@ -7,7 +7,7 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">19 февраля 2025 года,<br />с 14:00</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">26 февраля 2025 года,<br />с 15:00</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
@@ -16,7 +16,7 @@
 				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">
 					<a href="https://yandex.ru/maps/-/CHqGn2k3" target="_blank"> 
 						<i class="fa fa-map fi mr-5 text-danger"></i>
-						м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, этаж 2, аудитория 222/2
+						ул. Кузнецкий мост д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5
 					</a>
 				</p>
 			</div>
@@ -67,7 +67,7 @@
 
 			<div class="col-12 mx-auto">
 
-				<div class="section section-xs">
+				<!--<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
 							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/30/files/dod-medp-1.jpg" />
@@ -121,6 +121,8 @@
 						</div>
 					</div>
 				</div>
+				-->
+
 
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
@@ -147,13 +149,7 @@
 									Презентация кафедры и все о курсах;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Мастер-класс по основным приемам классического массажа тела;
-								</li>
-								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Знакомство с методиками и техниками оздоровительного массажа;
-								</li>
-								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Знакомство с различными видами массажа лица;
+									Погружение в профессию «Массажист»;
 								</li>
 								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
 									Скидки до 50%.
@@ -163,15 +159,15 @@
 						<div class="col-md-6">
 							<div class="row">
 								<div class="col-md-5 mx-auto">
-									<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/shepelev_34aaa1dad412c7aba47833a4be20c8d0.jpg" />
+									<a href="/about/prepodavateli/kafedra-medmassaja/valentina-nikolaevna-kapytceva" target="_blank">
+										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/KopitcevaV_2173c859c08d7f176bd285e2e9c9824e.jpg" />
 									</a>
 								</div>
 	
 								<div class="col-md-7 mx-auto">
 									<p class="bold" style="font-size: 17px; text-align: left;">
-										<a href="/about/prepodavateli/kafedra-medmassaja/vladimir-ivanovich-shepelev" target="_blank">
-											Преподаватель:<br />Шепелев Владимир Иванович
+										<a href="/about/prepodavateli/kafedra-medmassaja/valentina-nikolaevna-kapytceva" target="_blank">
+											Преподаватель:<br />Копытцева Валентина Николаевна
 										</a>
 									</p>
 								</div>
@@ -180,7 +176,7 @@
 					</div>
 				</div>
 
-				<!--<div class="section section-xs">
+				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
 							<img alt="" class="mx-auto" style="border-radius: 10px;" src="https://www.mzpo-s.ru/images/userfiles/2022/11/16/files/dod-kosm-1.jpg" />
@@ -192,7 +188,7 @@
 				</div>
 
 				<div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Косметология»<br />С 16:00 до 17:30</p>
+					<p class="text-center h2">Программа «Косметология»<br />С 16:15 до 17:30</p>
 					<hr />
 					<div class="row mb-10 mb-xs-0">
 						<div class="col-md-6 mx-auto">
@@ -229,17 +225,17 @@
 							</div>
 						</div>
 					</div>
-				</div>-->
+				</div>
 			</div>
 		
 		</div>
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 19 февраля с 14:00 до 17:00 по адресу: м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, этаж 2, аудитория 222/2</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 26 февраля с 15:00 до 17:30 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5</p>
   
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Медицинская подготовка» с 14:00 до 15:00.</p>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:30 до 17:00.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:00 до 16:00.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 16:15 до 17:30.</p>
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -248,7 +244,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="19.02.2025 14:00">19.02.2025 14:00</option>
+		<option value="26.02.2025 15:00">26.02.2025 15:00</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
@@ -267,7 +263,7 @@
 
 </div>
 <!-- /MIDDLE -->
-<!-- How to find us KYZ --><!--
+<!-- How to find us KYZ -->
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -294,18 +290,18 @@
 			Как пройти от метро &quot;Кузнецкий мост&quot; до нашего офиса
 		</p>
 
-		<div class="embed-responsive embed-responsive-16by9">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-				allowfullscreen="" style="width: 379px; border-radius: 10px" class="rad-10" frameborder="0" rel="nofollow"
-				src="https://www.youtube.com/embed/SesecQpL0xU" title="YouTube video player"></iframe>
+		<div class="">
+			<video style="height:255px; width: 379px; border-radius: 10px; position:relative; overflow: hidden;" controls="controls" controlslist="nodownload" poster="https://www.mzpo-s.ru/video/posters/do-kyz-mosta.png" preload="none">
+				<source src="https://www.mzpo-s.ru/video/do-administrtivnogo.mp4" type="video/mp4;" />
+			</video>
 		</div>
 	</div>
 </div>
--->
+
 <!-- / How to find us KYZ -->
 
 <!-- How to find us AVT -->
-
+<!--
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -326,9 +322,11 @@
 			Как пройти от метро &quot;Автозаводская&quot; до нашего офиса
 		</p>
 
-		<div class="embed-responsive embed-responsive-16by9">
-			<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" style="border-radius: 10px; height: 262px; width: 100%;" frameborder="0" src="https://www.youtube.com/embed/lM_rA-pV3S8" title="Путеводитель до нового офиса | МЦПО"></iframe>
+		<div class="">
+			<video class="rad-20" controls="controls" controlslist="nodownload" height="auto" poster="https://www.mzpo-s.ru/video/posters/kak-projti-do-avt.png" preload="none" width="100%">
+				<source src="https://www.mzpo-s.ru/video/kak-projti-do-avt.mp4" type="video/mp4;" />
+			</video>
 		</div>
 </div>
-</div>
+</div>-->
 <!-- / How to find us AVT -->
