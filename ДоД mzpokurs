@@ -137,7 +137,7 @@
 	
 				<div class="col-12"
 					style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 17:00</p>
+					<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:00</p>
 					<hr />
 					<div class="row mb-10 mb-xs-10">
 						<div class="col-md-6">
@@ -291,7 +291,7 @@
 		</p>
 
 		<div class="">
-			<video style="height:255px; width: 379px; border-radius: 10px; position:relative; overflow: hidden;" controls="controls" controlslist="nodownload" poster="https://www.mzpo-s.ru/video/posters/do-kyz-mosta.png" preload="none">
+			<video style="height:255px; width: 100%; border-radius: 10px;" controls="controls" controlslist="nodownload" poster="https://www.mzpo-s.ru/video/posters/do-kyz-mosta.png" preload="none">
 				<source src="https://www.mzpo-s.ru/video/do-administrtivnogo.mp4" type="video/mp4;" />
 			</video>
 		</div>
@@ -323,7 +323,7 @@
 		</p>
 
 		<div class="">
-			<video class="rad-20" controls="controls" controlslist="nodownload" height="auto" poster="https://www.mzpo-s.ru/video/posters/kak-projti-do-avt.png" preload="none" width="100%">
+			<video style="height:255px; width: 100%; border-radius: 10px;" controls="controls" controlslist="nodownload" height="auto" poster="https://www.mzpo-s.ru/video/posters/kak-projti-do-avt.png" preload="none" width="100%">
 				<source src="https://www.mzpo-s.ru/video/kak-projti-do-avt.mp4" type="video/mp4;" />
 			</video>
 		</div>
