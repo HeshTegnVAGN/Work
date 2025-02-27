@@ -7,7 +7,7 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">26 февраля 2025 года,<br />с 15:00</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">5 марта 2025 года,<br />в 16:30</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
@@ -121,7 +121,7 @@
 						</div>
 					</div>
 				</div>
-				-->
+				
 
 
 				<div class="section section-xs">
@@ -175,7 +175,7 @@
 						</div>
 					</div>
 				</div>
-
+-->
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
@@ -188,7 +188,7 @@
 				</div>
 
 				<div class="col-12" style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Косметология»<br />С 16:15 до 17:30</p>
+					<p class="text-center h2">Программа «Косметология»<br />С 16:30 до 17:30</p>
 					<hr />
 					<div class="row mb-10 mb-xs-0">
 						<div class="col-md-6 mx-auto">
@@ -232,10 +232,10 @@
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 26 февраля с 15:00 до 17:30 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5</p>
-  
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 5 марта с 16:30 до 17:30 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5</p>
+  <!--
 	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:00 до 16:00.</p>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 16:15 до 17:30.</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 16:15 до 17:30.</p>-->
 </center>
 
 <form class="my-4 mx-3 formAjax mt-40" style="margin: 0 auto; width: 400px;" id="freeEvent">
@@ -244,7 +244,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="26.02.2025 15:00">26.02.2025 15:00</option>
+		<option value="05.03.2025 16:30">05.03.2025 16:30</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
