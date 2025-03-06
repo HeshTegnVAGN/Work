@@ -7,16 +7,16 @@
 						<img class="rounded" src="images/kalendar-mer.png" style="width: 150px; height: 150px;" />
 					</div>
 				</center>
-				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">5 марта 2025 года,<br />в 16:30</p>
+				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">13 марта 2025 года,<br />в 15:00</p>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<center>
 					<div><img class="rounded" src="images/geo-mer.png" style="width: 150px; height: 150px;" /></div>
 				</center>
 				<p style="font-size: 18px; font-weight: bold; text-align: center; padding-top: 10px;">
-					<a href="https://yandex.ru/maps/-/CHqGn2k3" target="_blank"> 
+					<a href="https://yandex.ru/maps/-/CHBbYLzw" target="_blank"> 
 						<i class="fa fa-map fi mr-5 text-danger"></i>
-						ул. Кузнецкий мост д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5
+						ул. Ленинская Слобода, д.26, корп. С, аудитория 220/1
 					</a>
 				</p>
 			</div>
@@ -134,10 +134,10 @@
 						</div>
 					</div>
 				</div>
-	
+	-->
 				<div class="col-12"
 					style="border: solid #1b245e 2px !important; border-radius: 15px; padding-left: 3rem!important; padding-right: 3rem!important; padding-bottom: 1.5rem!important; padding-top: 1.5rem!important; margin-bottom: 1.5rem!important; margin-top: 1.5rem!important;">
-					<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:30 до 16:00</p>
+					<p class="text-center h2">Программа «Массаж и реабилитация»<br />С 15:00 до 16:00</p>
 					<hr />
 					<div class="row mb-10 mb-xs-10">
 						<div class="col-md-6">
@@ -149,7 +149,10 @@
 									Презентация кафедры и все о курсах;
 								</li>
 								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
-									Погружение в профессию «Массажист»;
+									Мастер-класс по основным приемам классического массажа тела;
+								</li>
+								<li style="list-style: disc!important; padding-bottom: 10px!important; min-height: auto!important;">
+									Знакомство с методиками и техниками оздоровительного массажа;
 								</li>
 								<li style="list-style: disc!important;padding-bottom: 10px!important;min-height: auto!important;color: #FF4136 !important;" class="bold">
 									Скидки до 50%.
@@ -159,15 +162,15 @@
 						<div class="col-md-6">
 							<div class="row">
 								<div class="col-md-5 mx-auto">
-									<a href="/about/prepodavateli/kafedra-medmassaja/valentina-nikolaevna-kapytceva" target="_blank">
-										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/KopitcevaV_2173c859c08d7f176bd285e2e9c9824e.jpg" />
+									<a href="/about/prepodavateli/kafedra-medmassaja/mihail-yurevich-selyavin" target="_blank">
+										<img class="img-fluid" style="border-radius: 10px;" src="https://www.mzpokurs.com/media/zoo/images/10_62e12b76d2c03_6f0cb80798084f5664773680a2850545.jpg" />
 									</a>
 								</div>
 	
 								<div class="col-md-7 mx-auto">
 									<p class="bold" style="font-size: 17px; text-align: left;">
-										<a href="/about/prepodavateli/kafedra-medmassaja/valentina-nikolaevna-kapytceva" target="_blank">
-											Преподаватель:<br />Копытцева Валентина Николаевна
+										<a href="/about/prepodavateli/kafedra-medmassaja/mihail-yurevich-selyavin" target="_blank">
+											Преподаватель:<br />Селявин Михаил Юрьевич
 										</a>
 									</p>
 								</div>
@@ -175,7 +178,8 @@
 						</div>
 					</div>
 				</div>
--->
+
+				<!--
 				<div class="section section-xs">
 					<div class="row mt-20 mb-30">
 						<div class="col-md-6">
@@ -225,14 +229,15 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>-->
 			</div>
 		
 		</div>
 	</div>
 </section>
 <center>
-	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 5 марта с 16:30 до 17:30 по адресу: м. Кузнецкий мост, ул. Кузнецкий мост д. 21/5, подъезд 1, этаж 4, офис 4002, аудитория 5</p>
+	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Ждем вас 13 марта с 15:00 до 16:00 по адресу:<br>
+		м. Автозаводская, ул. Ленинская Слобода, д.26, корп. С, аудитория 220/1</p>
   <!--
 	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Массаж и реабилитация» с 15:00 до 16:00.</p>
 	<p class="bold" style="font-size: 17px; margin-bottom: 10px!important;">Секция «Косметология» с 16:15 до 17:30.</p>-->
@@ -244,7 +249,7 @@
 	<input type="tel" required="" name="tel" id="intl-tel-phone" class="form-control masked mb-15" autocomplete="" data-format="(999) 999-99-99" data-placeholder="_" placeholder="* Телефон:" />
 	<select name="date" required="" id="date" class="form-control mb-15">
 		<option>* Выберите дату</option>
-		<option value="05.03.2025 16:30">05.03.2025 16:30</option>
+		<option value="13.03.2025 15:00">13.03.2025 15:00</option>
 	</select>
 	<input type="hidden" name="form_name_site" class="form_name_site" value="Заявка с формы Записаться на  День открытых дверей очно с сайта mzpokurs.com" />
 	<input type="hidden" name="events" value="true" />
@@ -263,7 +268,7 @@
 
 </div>
 <!-- /MIDDLE -->
-<!-- How to find us KYZ -->
+<!-- How to find us KYZ --><!--
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -297,11 +302,11 @@
 		</div>
 	</div>
 </div>
-
+-->
 <!-- / How to find us KYZ -->
 
 <!-- How to find us AVT -->
-<!--
+
 <h2 class="text-center mt-40">
 	Как нас найти?
 </h2>
@@ -328,5 +333,5 @@
 			</video>
 		</div>
 </div>
-</div>-->
+</div>
 <!-- / How to find us AVT -->
